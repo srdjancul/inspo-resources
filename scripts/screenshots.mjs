@@ -1,7 +1,8 @@
 // Captures a preview image for every inspo item that doesn't have one yet.
-// Usage: npm run shots            (only missing)
-//        npm run shots -- --force (redo all)
-//        npm run shots -- <url>   (redo one)
+// Usage: npm run shots              (only missing)
+//        npm run shots -- --blank   (also redo blank/blank-ish captures)
+//        npm run shots -- --force   (redo all)
+//        npm run shots -- <url>     (redo one)
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { chromium } from 'playwright';
@@ -15,6 +16,7 @@ const CONCURRENCY = Number(process.env.SHOTS_CONCURRENCY || 6);
 
 const args = process.argv.slice(2);
 const force = args.includes('--force');
+const redoBlank = args.includes('--blank');
 const only = args.filter((a) => a.startsWith('http'));
 
 const items = JSON.parse(await fs.readFile(path.join(ROOT, 'data/inspo.json'), 'utf8'));
@@ -30,11 +32,18 @@ for (const f of await fs.readdir(OUT)) {
 }
 
 const exists = (p) => fs.access(p).then(() => true, () => false);
+
+// A capture with almost no contrast is a loader or an empty page, not the site.
+const BLANK_STDEV = 8;
+async function isBlank(input) {
+  const { channels } = await sharp(input).stats();
+  return channels.slice(0, 3).reduce((sum, c) => sum + c.stdev, 0) / 3 < BLANK_STDEV;
+}
 const todo = [];
 for (const it of items) {
   if (only.length && !only.includes(it.url)) continue;
   const file = path.join(OUT, slugify(it.url) + '.webp');
-  if (!force && !only.length && (await exists(file))) continue;
+  if (!force && !only.length && (await exists(file)) && !(redoBlank && (await isBlank(file)))) continue;
   todo.push({ ...it, file });
 }
 console.log(`${todo.length} to capture`);
@@ -87,7 +96,13 @@ async function screenshot(page, url) {
   }
   await page.addStyleTag({ content: HIDE_OVERLAYS }).catch(() => {});
   await page.waitForTimeout(3500);
-  return page.screenshot({ type: 'jpeg', quality: 90 });
+  let shot = await page.screenshot({ type: 'jpeg', quality: 90 });
+  // Intro loaders: give the page more time before giving up on a blank frame.
+  for (let i = 0; i < 2 && (await isBlank(shot)); i++) {
+    await page.waitForTimeout(6000);
+    shot = await page.screenshot({ type: 'jpeg', quality: 90 });
+  }
+  return shot;
 }
 
 const failed = [];

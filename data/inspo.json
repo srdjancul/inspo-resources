@@ -3,7 +3,9 @@
     "title": "Medical Landing Page by Levi Wilson for QClay",
     "url": "https://dribbble.com/shots/24830146-Medical-Landing-Page",
     "tags": [
-      "Health"
+      "Health",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -21,7 +23,8 @@
     "tags": [
       "Product",
       "Light",
-      "Minimal"
+      "Minimal",
+      "App UI"
     ]
   },
   {
@@ -101,7 +104,8 @@
     "tags": [
       "Motion",
       "Dark",
-      "Minimal"
+      "Minimal",
+      "Architecture"
     ]
   },
   {
@@ -187,7 +191,9 @@
     "title": "Opal Tadpole",
     "url": "https://opalcamera.com/opal-tadpole",
     "tags": [
-      "Product"
+      "Product",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -224,15 +230,8 @@
     "tags": [
       "Product",
       "Dark",
-      "Minimal"
-    ]
-  },
-  {
-    "title": "Teamway",
-    "url": "https://teamway.io",
-    "tags": [
-      "Portfolio",
-      "Light"
+      "Minimal",
+      "Cybersecurity"
     ]
   },
   {
@@ -307,7 +306,9 @@
     "title": "Superpower",
     "url": "https://superpower.com",
     "tags": [
-      "Health"
+      "Health",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -315,7 +316,8 @@
     "url": "https://www.las-art.foundation",
     "tags": [
       "Dark",
-      "Photography"
+      "Photography",
+      "Culture"
     ]
   },
   {
@@ -391,7 +393,9 @@
   {
     "title": "Lacoste",
     "url": "https://membersexperience-create.lacoste.com/gb/en",
-    "tags": []
+    "tags": [
+      "Fashion"
+    ]
   },
   {
     "title": "irys.xyz",
@@ -409,7 +413,8 @@
       "Event",
       "Dark",
       "Typography",
-      "Bold"
+      "Bold",
+      "Culture"
     ]
   },
   {
@@ -455,7 +460,8 @@
     "tags": [
       "Dark",
       "Typography",
-      "Bold"
+      "Bold",
+      "Culture"
     ]
   },
   {
@@ -552,14 +558,19 @@
     "tags": [
       "Web3",
       "Light",
-      "Typography"
+      "Typography",
+      "Gaming"
     ]
   },
   {
     "title": "leandra-isler.ch",
     "url": "https://www.leandra-isler.ch/en",
     "tags": [
-      "Portfolio"
+      "Portfolio",
+      "Health",
+      "Light",
+      "Photography",
+      "Typography"
     ]
   },
   {
@@ -568,13 +579,16 @@
     "tags": [
       "Light",
       "Typography",
-      "Minimal"
+      "Minimal",
+      "Culture"
     ]
   },
   {
     "title": "Into the Amazon",
     "url": "https://www.nationalgeographic.com/into-the-amazon",
-    "tags": []
+    "tags": [
+      "Culture"
+    ]
   },
   {
     "title": "Composite materials",
@@ -612,7 +626,10 @@
   {
     "title": "TrueKind",
     "url": "https://truekindskincare.com",
-    "tags": []
+    "tags": [
+      "Shop",
+      "Photography"
+    ]
   },
   {
     "title": "Aurel's Grand Theater",
@@ -622,11 +639,6 @@
       "Dark",
       "Typography"
     ]
-  },
-  {
-    "title": "Paintboxed",
-    "url": "https://www.artmeta.org/paintboxed",
-    "tags": []
   },
   {
     "title": "Zoetrope & Shadow",
@@ -658,7 +670,8 @@
     "tags": [
       "Branding",
       "Light",
-      "Playful"
+      "Playful",
+      "Fashion"
     ]
   },
   {
@@ -672,7 +685,8 @@
     "tags": [
       "Playful",
       "Dark",
-      "Minimal"
+      "Minimal",
+      "Fashion"
     ]
   },
   {
@@ -688,7 +702,8 @@
     "tags": [
       "Light",
       "Typography",
-      "Grid"
+      "Grid",
+      "Culture"
     ]
   },
   {
@@ -698,28 +713,37 @@
       "AI",
       "Product",
       "Light",
-      "Minimal"
+      "Minimal",
+      "Cybersecurity"
     ]
   },
   {
     "title": "Meme creator",
     "url": "https://www.gm-meme.com",
     "tags": [
-      "Product"
+      "Product",
+      "Light",
+      "Typography",
+      "Bold"
     ]
   },
   {
     "title": "Montfort Group",
     "url": "https://mont-fort.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
     "title": "Quantum Body",
     "url": "https://www.quantumbody.io",
     "tags": [
-      "Health"
+      "Health",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -861,7 +885,8 @@
     "tags": [
       "Blog",
       "Light",
-      "Photography"
+      "Photography",
+      "Culture"
     ]
   },
   {
@@ -906,7 +931,11 @@
     "title": "Collider",
     "url": "https://www.drinkcollider.com",
     "tags": [
-      "Product"
+      "Product",
+      "Shop",
+      "Light",
+      "Bold",
+      "Typography"
     ]
   },
   {
@@ -967,7 +996,9 @@
     "title": "Phantom Studios",
     "url": "https://www.phantom.land",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Grid"
     ]
   },
   {
@@ -975,7 +1006,10 @@
     "url": "https://www.ciroguatieri.com",
     "tags": [
       "Agency",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
@@ -1029,7 +1063,8 @@
     "title": "San Rita",
     "url": "https://sanrita.ca/projects",
     "tags": [
-      "Agency"
+      "Agency",
+      "Photography"
     ]
   },
   {
@@ -1048,7 +1083,9 @@
     "url": "https://artemshcherban.com",
     "tags": [
       "Agency",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -1134,7 +1171,9 @@
     "url": "https://vshslv.com",
     "tags": [
       "Agency",
-      "Portfolio"
+      "Portfolio",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -1151,7 +1190,9 @@
     "title": "HAOQI©2026",
     "url": "https://haoqi.design",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "3D"
     ]
   },
   {
@@ -1198,7 +1239,9 @@
     "url": "https://www.leoparpeix.com",
     "tags": [
       "Agency",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -1282,7 +1325,8 @@
     "title": "museum.unesco.org",
     "url": "https://museum.unesco.org/stolen-objects",
     "tags": [
-      "Branding"
+      "Branding",
+      "Culture"
     ]
   },
   {
@@ -1323,7 +1367,10 @@
     "title": "RoiHeads",
     "url": "https://roiheads.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Dark",
+      "Typography",
+      "Bold"
     ]
   },
   {
@@ -1358,14 +1405,20 @@
     "url": "https://glcpatti.com",
     "tags": [
       "Branding",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Typography",
+      "Illustration"
     ]
   },
   {
     "title": "EASYSELLER",
     "url": "https://www.easyseller.it",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
@@ -1389,7 +1442,10 @@
     "title": "Son Daven",
     "url": "https://sondaven.com/ua",
     "tags": [
-      "Branding"
+      "Branding",
+      "Real estate",
+      "Photography",
+      "Typography"
     ]
   },
   {
@@ -1405,7 +1461,8 @@
     "title": "DANZAN",
     "url": "https://danzan.jiejoe.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Bold"
     ]
   },
   {
@@ -1522,28 +1579,42 @@
     "title": "Genesis Reimagined",
     "url": "https://www.reimaginegenesis.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Dark",
+      "Minimal",
+      "Typography"
     ]
   },
   {
     "title": "PX PUSH",
     "url": "https://pxpush.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Agency",
+      "Light",
+      "3D",
+      "Typography"
     ]
   },
   {
     "title": "Sunfreaks",
     "url": "https://www.forsunfreaks.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Dark",
+      "Colorful",
+      "Typography"
     ]
   },
   {
     "title": "Decathlon Yestalgia",
     "url": "https://decathlonyestalgia.com/en",
     "tags": [
-      "Branding"
+      "Branding",
+      "Fashion",
+      "Light",
+      "Playful",
+      "Illustration"
     ]
   },
   {
@@ -1581,7 +1652,11 @@
     "title": ".txt",
     "url": "https://dottxt.ai",
     "tags": [
-      "Branding"
+      "Branding",
+      "AI",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
@@ -1598,14 +1673,21 @@
     "title": "grail-app.com",
     "url": "https://grail-app.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Product",
+      "Dark",
+      "3D",
+      "Typography"
     ]
   },
   {
     "title": "Palmo Coconut Co.",
     "url": "https://www.palmo.co.in",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Bold",
+      "Typography"
     ]
   },
   {
@@ -1623,7 +1705,10 @@
     "url": "https://www.designbomb.it",
     "tags": [
       "Branding",
-      "Event"
+      "Event",
+      "Dark",
+      "Bold",
+      "Typography"
     ]
   },
   {
@@ -1702,7 +1787,12 @@
     "title": "Evervault",
     "url": "https://evervault.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Fintech",
+      "Cybersecurity",
+      "App UI",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -1724,7 +1814,8 @@
       "Corporate",
       "AI",
       "Product",
-      "Dark"
+      "Dark",
+      "App UI"
     ]
   },
   {
@@ -1755,7 +1846,8 @@
       "Fintech",
       "Product",
       "Light",
-      "Minimal"
+      "Minimal",
+      "App UI"
     ]
   },
   {
@@ -1829,7 +1921,8 @@
       "Fintech",
       "Web3",
       "Light",
-      "Minimal"
+      "Minimal",
+      "App UI"
     ]
   },
   {
@@ -1838,7 +1931,8 @@
     "tags": [
       "Corporate",
       "AI",
-      "Product"
+      "Product",
+      "Cybersecurity"
     ]
   },
   {
@@ -1885,7 +1979,8 @@
       "Agency",
       "Light",
       "Typography",
-      "Minimal"
+      "Minimal",
+      "Architecture"
     ]
   },
   {
@@ -1905,7 +2000,8 @@
       "Grid",
       "Shop",
       "Light",
-      "Bold"
+      "Bold",
+      "Fashion"
     ]
   },
   {
@@ -1913,7 +2009,9 @@
     "url": "https://flowers-sim.ru/category-4",
     "tags": [
       "Grid",
-      "Shop"
+      "Shop",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -1930,7 +2028,10 @@
     "title": "Longbow",
     "url": "https://db-longbow.webflow.io",
     "tags": [
-      "Grid"
+      "Grid",
+      "Light",
+      "Luxury",
+      "Minimal"
     ]
   },
   {
@@ -1948,7 +2049,9 @@
       "Blog",
       "Dark",
       "Typography",
-      "Colorful"
+      "Colorful",
+      "Architecture",
+      "Culture"
     ]
   },
   {
@@ -1957,7 +2060,10 @@
     "tags": [
       "Grid",
       "AI",
-      "Product"
+      "Product",
+      "Light",
+      "Illustration",
+      "Minimal"
     ]
   },
   {
@@ -1984,7 +2090,10 @@
     "url": "https://maximatherapy.com/programs/0-to-3",
     "tags": [
       "Playful",
-      "Health"
+      "Health",
+      "Light",
+      "Illustration",
+      "Colorful"
     ]
   },
   {
@@ -2016,7 +2125,8 @@
       "Playful",
       "Light",
       "Bold",
-      "Colorful"
+      "Colorful",
+      "Culture"
     ]
   },
   {
@@ -2078,21 +2188,29 @@
     "title": "The Obsidian Assembly",
     "url": "https://obsidianassembly.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Light",
+      "Luxury",
+      "Typography"
     ]
   },
   {
     "title": "Vizcom",
     "url": "https://vizcom.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Light",
+      "Illustration",
+      "Typography"
     ]
   },
   {
     "title": "San Rita",
     "url": "https://sanrita.ca",
     "tags": [
-      "Playful"
+      "Playful",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -2106,7 +2224,10 @@
     "title": "Champions for Good Club",
     "url": "https://www.champions4good.club",
     "tags": [
-      "Playful"
+      "Playful",
+      "Dark",
+      "Bold",
+      "Typography"
     ]
   },
   {
@@ -2133,7 +2254,8 @@
       "Playful",
       "Portfolio",
       "Light",
-      "Illustration"
+      "Illustration",
+      "Education"
     ]
   },
   {
@@ -2160,7 +2282,10 @@
     "title": "manychat.com",
     "url": "https://manychat.com/report",
     "tags": [
-      "Playful"
+      "Playful",
+      "Dark",
+      "Bold",
+      "Colorful"
     ]
   },
   {
@@ -2184,7 +2309,8 @@
     "url": "https://secure-the-unknown.cyera.com",
     "tags": [
       "Playful",
-      "AI"
+      "AI",
+      "Cybersecurity"
     ]
   },
   {
@@ -2224,21 +2350,28 @@
     "title": "Stefanos Tsitsipas",
     "url": "https://tsitsipas.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Dark",
+      "3D",
+      "Bold"
     ]
   },
   {
     "title": "Pasticcino Bag World Tour 2026",
     "url": "https://weekend-mm-2026-pasticcino-bag-master.monogrid.io/en/chapter-01",
     "tags": [
-      "Playful"
+      "Playful",
+      "Fashion",
+      "Dark",
+      "3D"
     ]
   },
   {
     "title": "Zero",
     "url": "https://why.zero.university",
     "tags": [
-      "Playful"
+      "Playful",
+      "Education"
     ]
   },
   {
@@ -2280,7 +2413,8 @@
       "Real estate",
       "Light",
       "Photography",
-      "Minimal"
+      "Minimal",
+      "Architecture"
     ]
   },
   {
@@ -2315,7 +2449,10 @@
     "title": "Inna Dove",
     "url": "https://innadove.com/en/main-en",
     "tags": [
-      "Luxury"
+      "Luxury",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
@@ -2336,7 +2473,8 @@
       "Agency",
       "Light",
       "Typography",
-      "Photography"
+      "Photography",
+      "Architecture"
     ]
   },
   {
@@ -2383,7 +2521,11 @@
     "url": "https://oci.madebybuzzworthy.com",
     "tags": [
       "Modern",
-      "Corporate"
+      "Corporate",
+      "Light",
+      "Bold",
+      "Typography",
+      "Photography"
     ]
   },
   {
@@ -2392,7 +2534,8 @@
     "tags": [
       "Modern",
       "Dark",
-      "Photography"
+      "Photography",
+      "Education"
     ]
   },
   {
@@ -2444,7 +2587,9 @@
     "title": "Alethia",
     "url": "https://www.alethia.earth",
     "tags": [
-      "Modern"
+      "Modern",
+      "Dark",
+      "3D"
     ]
   },
   {
@@ -2462,7 +2607,9 @@
     "title": "Vaulk",
     "url": "https://vaulk.com/en-GB",
     "tags": [
-      "Modern"
+      "Modern",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -2504,7 +2651,11 @@
     "title": "Voyeur Vérité",
     "url": "https://www.voyeurverite.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Dark",
+      "Bold",
+      "Photography",
+      "Typography"
     ]
   },
   {
@@ -2525,7 +2676,8 @@
       "Corporate",
       "Light",
       "Photography",
-      "Bold"
+      "Bold",
+      "Fashion"
     ]
   },
   {
@@ -2555,14 +2707,22 @@
     "url": "https://kononenkogroup.com",
     "tags": [
       "Modern",
-      "Agency"
+      "Agency",
+      "Architecture",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
     "title": "Share Bien",
     "url": "https://www.sharebien.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Agency",
+      "Dark",
+      "Typography",
+      "Photography"
     ]
   },
   {
@@ -2579,7 +2739,8 @@
       "Modern",
       "Light",
       "3D",
-      "Minimal"
+      "Minimal",
+      "Education"
     ]
   },
   {
@@ -2610,7 +2771,10 @@
     "title": "Aevion",
     "url": "https://drone.riotters.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
@@ -2629,7 +2793,10 @@
     "url": "https://www.cathydolle.com",
     "tags": [
       "Gallery",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
@@ -2667,7 +2834,9 @@
     "title": "The Blink Fish",
     "url": "https://theblinkfish.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -2702,7 +2871,10 @@
     "title": "Spark & Riot",
     "url": "https://www.sparkandriot.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Dark",
+      "Typography",
+      "Minimal"
     ]
   },
   {
@@ -2735,7 +2907,10 @@
     "url": "https://thiswasmajor.com",
     "tags": [
       "Gallery",
-      "Agency"
+      "Agency",
+      "Dark",
+      "Photography",
+      "Bold"
     ]
   },
   {
@@ -2761,7 +2936,9 @@
     "url": "https://www.simonholm.studio",
     "tags": [
       "Gallery",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Photography"
     ]
   },
   {
@@ -2785,14 +2962,20 @@
     "title": "Depo Luxe",
     "url": "https://depoluxe.xyz",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Fashion",
+      "Light",
+      "Photography",
+      "Luxury"
     ]
   },
   {
     "title": "Obys® Experiment Space",
     "url": "https://experiment.obys.agency",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -2819,7 +3002,10 @@
     "title": "inspiring.nk.studio",
     "url": "https://inspiring.nk.studio",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Dark",
+      "Typography",
+      "Minimal"
     ]
   },
   {
@@ -2855,7 +3041,10 @@
     "title": "CA Film Creatives",
     "url": "https://www.charlesalexandertv.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Dark",
+      "Luxury",
+      "Typography"
     ]
   },
   {
@@ -2873,7 +3062,10 @@
     "url": "https://jesperlandberg.com",
     "tags": [
       "Gallery",
-      "Portfolio"
+      "Portfolio",
+      "Dark",
+      "3D",
+      "Photography"
     ]
   },
   {
@@ -2898,7 +3090,9 @@
     "title": "Arc ©'26",
     "url": "https://www.arcmarumo.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Dark",
+      "3D"
     ]
   },
   {
@@ -2963,7 +3157,10 @@
     "url": "https://www.lukebaffait.fr",
     "tags": [
       "Process",
-      "Portfolio"
+      "Portfolio",
+      "Dark",
+      "Typography",
+      "Bold"
     ]
   },
   {
@@ -2983,7 +3180,8 @@
       "Roadmap",
       "Dark",
       "Photography",
-      "Typography"
+      "Typography",
+      "Architecture"
     ]
   },
   {
@@ -3001,7 +3199,10 @@
     "title": "Contributors",
     "url": "https://thefutureofexperience.com/contributors-18-leading-voices",
     "tags": [
-      "Team"
+      "Team",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
@@ -3042,7 +3243,10 @@
     "title": "Craft, engineered",
     "url": "https://craft.wild.as",
     "tags": [
-      "Hero"
+      "Hero",
+      "Agency",
+      "Light",
+      "Typography"
     ]
   },
   {
@@ -3058,7 +3262,11 @@
     "title": "Brikken+Co",
     "url": "https://www.brikken.co",
     "tags": [
-      "Hero"
+      "Hero",
+      "Agency",
+      "Light",
+      "Typography",
+      "3D"
     ]
   },
   {
@@ -3082,7 +3290,9 @@
     "title": "POUCH Drinks",
     "url": "https://drinkpouch.com",
     "tags": [
-      "Shop"
+      "Shop",
+      "Dark",
+      "3D"
     ]
   },
   {
@@ -3110,21 +3320,27 @@
     "title": "Watches & Wonders",
     "url": "https://www.cartier.com/en-fr/watchesandwonders",
     "tags": [
-      "Shop"
+      "Shop",
+      "Fashion"
     ]
   },
   {
     "title": "OUTFIT® by ++hellohello",
     "url": "https://outfit.hellohello.is",
     "tags": [
-      "Shop"
+      "Shop",
+      "Fashion",
+      "Light",
+      "Bold",
+      "Typography"
     ]
   },
   {
     "title": "Balmoral",
     "url": "https://www.balmoralrunning.com",
     "tags": [
-      "Shop"
+      "Shop",
+      "Fashion"
     ]
   },
   {
@@ -3134,7 +3350,8 @@
       "Shop",
       "Light",
       "Photography",
-      "Minimal"
+      "Minimal",
+      "Fashion"
     ]
   },
   {
@@ -3148,7 +3365,8 @@
     "title": "Miu Miu",
     "url": "https://immersivebags.miumiu.com/en",
     "tags": [
-      "Shop"
+      "Shop",
+      "Fashion"
     ]
   },
   {
@@ -3179,7 +3397,11 @@
     "title": "PSN/OWN",
     "url": "https://www.psnown.com",
     "tags": [
-      "Shop"
+      "Shop",
+      "Fashion",
+      "Dark",
+      "Photography",
+      "Bold"
     ]
   },
   {
@@ -3206,6 +3428,9 @@
     "title": "Athos 2.0",
     "url": "https://athos2.framer.website",
     "tags": [
+      "Portfolio",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3213,6 +3438,9 @@
     "title": "Resume & Portfolio Kit",
     "url": "https://ui8.net/brandkit-01841a/products/resume--portfolio-kit",
     "tags": [
+      "Shop",
+      "Dark",
+      "Colorful",
       "Archive"
     ]
   },
@@ -3232,6 +3460,9 @@
     "url": "https://www.e-w.se",
     "tags": [
       "Agency",
+      "Dark",
+      "Typography",
+      "Bold",
       "Archive"
     ]
   },
@@ -3242,6 +3473,7 @@
       "Health",
       "Light",
       "Typography",
+      "App UI",
       "Archive"
     ]
   },
@@ -3253,6 +3485,7 @@
       "Light",
       "Grid",
       "Colorful",
+      "Culture",
       "Archive"
     ]
   },
@@ -3274,6 +3507,7 @@
       "Fintech",
       "Product",
       "Dark",
+      "App UI",
       "Archive"
     ]
   },
@@ -3302,6 +3536,8 @@
     "url": "https://www.award.co/solutions/rewards-recognition-platform",
     "tags": [
       "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3319,6 +3555,9 @@
     "title": "nectarhr.com",
     "url": "https://nectarhr.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3326,6 +3565,9 @@
     "title": "xoxoday.com",
     "url": "https://www.xoxoday.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3334,6 +3576,8 @@
     "url": "https://bonusly.com",
     "tags": [
       "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3345,6 +3589,7 @@
       "Product",
       "Light",
       "Grid",
+      "App UI",
       "Archive"
     ]
   },
@@ -3355,6 +3600,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -3362,6 +3608,11 @@
     "title": "remote.com",
     "url": "https://remote.com",
     "tags": [
+      "Product",
+      "Light",
+      "Bold",
+      "Colorful",
+      "Typography",
       "Archive"
     ]
   },
@@ -3370,6 +3621,9 @@
     "url": "https://dribbble.com/shots/23475625-Smart-Investment-Service-Web-Design",
     "tags": [
       "Fintech",
+      "Light",
+      "Minimal",
+      "Photography",
       "Archive"
     ]
   },
@@ -3390,6 +3644,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -3419,6 +3674,8 @@
     "url": "https://dribbble.com/shots/22840841-Medizen-Healthcare-Technology-Website-Design",
     "tags": [
       "Health",
+      "Light",
+      "Typography",
       "Archive"
     ]
   },
@@ -3430,6 +3687,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -3441,6 +3699,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -3521,6 +3780,7 @@
       "Product",
       "Light",
       "Typography",
+      "App UI",
       "Archive"
     ]
   },
@@ -3540,6 +3800,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -3661,6 +3922,10 @@
     "title": "monday.com",
     "url": "https://monday.com",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3679,6 +3944,9 @@
     "title": "canny.io",
     "url": "https://canny.io",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3686,6 +3954,10 @@
     "title": "Resend",
     "url": "https://resend.com",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
+      "3D",
       "Archive"
     ]
   },
@@ -3693,6 +3965,10 @@
     "title": "0pass",
     "url": "https://0pass.com",
     "tags": [
+      "Cybersecurity",
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3701,6 +3977,7 @@
     "url": "https://www.okta.com/customer-identity/passwordless",
     "tags": [
       "Product",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -3708,6 +3985,10 @@
     "title": "OwnID",
     "url": "https://ownid.com",
     "tags": [
+      "Cybersecurity",
+      "Dark",
+      "Minimal",
+      "Typography",
       "Archive"
     ]
   },
@@ -3726,6 +4007,10 @@
     "title": "Auth0",
     "url": "https://auth0.com",
     "tags": [
+      "Cybersecurity",
+      "Product",
+      "Dark",
+      "Colorful",
       "Archive"
     ]
   },
@@ -3733,6 +4018,10 @@
     "title": "LastPass",
     "url": "https://www.lastpass.com",
     "tags": [
+      "Cybersecurity",
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3741,6 +4030,8 @@
     "url": "https://reflect.app/home",
     "tags": [
       "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3748,6 +4039,10 @@
     "title": "Colors",
     "url": "https://projectile-webflow-website-template.webflow.io/homepages/homepage-1",
     "tags": [
+      "Product",
+      "App UI",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3786,6 +4081,10 @@
     "title": "workflow",
     "url": "https://interface-design.co.uk/case-studies/Cybersecurity-Workflow-Design",
     "tags": [
+      "Cybersecurity",
+      "Dark",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3794,6 +4093,8 @@
     "url": "https://deepmind.google/technologies/gemini",
     "tags": [
       "AI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3823,6 +4124,7 @@
     "url": "https://www.behance.net/gallery/148566487/Esports-SaaS-Landing-Page-Purchase-flow",
     "tags": [
       "Product",
+      "Gaming",
       "Archive"
     ]
   },
@@ -3844,6 +4146,7 @@
       "Agency",
       "Dark",
       "Minimal",
+      "Gaming",
       "Archive"
     ]
   },
@@ -3854,13 +4157,7 @@
       "Agency",
       "Dark",
       "Bold",
-      "Archive"
-    ]
-  },
-  {
-    "title": "Playbase.GG",
-    "url": "https://www.playbase.gg",
-    "tags": [
+      "Gaming",
       "Archive"
     ]
   },
@@ -3871,19 +4168,13 @@
       "Product",
       "Light",
       "Grid",
+      "Gaming",
       "Archive"
     ]
   },
   {
     "title": "divider",
     "url": "https://www.behance.net/gallery/146237507/MONK-Link-in-bio-website-for-gamers-esports",
-    "tags": [
-      "Archive"
-    ]
-  },
-  {
-    "title": "Premium stock video - Rural broadband expansion investment",
-    "url": "https://www.freepik.com/premium-video/rural-broadband-expansion-investment_821274",
     "tags": [
       "Archive"
     ]
@@ -3902,6 +4193,9 @@
     "title": "Carbon",
     "url": "https://carbon.framer.website",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3913,6 +4207,7 @@
       "Product",
       "Dark",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -3920,6 +4215,10 @@
     "title": "Features",
     "url": "https://projectile-webflow-website-template.webflow.io/features",
     "tags": [
+      "Product",
+      "App UI",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3964,6 +4263,10 @@
     "title": "Trigger.dev",
     "url": "https://trigger.dev",
     "tags": [
+      "Product",
+      "AI",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4023,13 +4326,7 @@
       "AI",
       "Dark",
       "Minimal",
-      "Archive"
-    ]
-  },
-  {
-    "title": "Evmos",
-    "url": "https://evmos.org",
-    "tags": [
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4063,13 +4360,6 @@
       "Light",
       "Minimal",
       "Grid",
-      "Archive"
-    ]
-  },
-  {
-    "title": "Branding",
-    "url": "https://drive.google.com/drive/folders/1YmB8bjeG3l_EeK8vz5bQEeiuWqAiAqjZ",
-    "tags": [
       "Archive"
     ]
   },
@@ -4113,14 +4403,6 @@
       "Dark",
       "Photography",
       "Typography",
-      "Archive"
-    ]
-  },
-  {
-    "title": "Rise",
-    "url": "https://www.risecalendar.com",
-    "tags": [
-      "Product",
       "Archive"
     ]
   },
@@ -4224,6 +4506,10 @@
     "title": "Skroope",
     "url": "https://skroope.framer.website",
     "tags": [
+      "Architecture",
+      "Dark",
+      "Photography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4231,6 +4517,10 @@
     "title": "Nilsson",
     "url": "https://nilsson-template.webflow.io",
     "tags": [
+      "Architecture",
+      "Light",
+      "Photography",
+      "Typography",
       "Archive"
     ]
   },
@@ -4284,6 +4574,7 @@
       "Agency",
       "Light",
       "Photography",
+      "Architecture",
       "Archive"
     ]
   },
@@ -4320,13 +4611,6 @@
     ]
   },
   {
-    "title": "About Section",
-    "url": "https://www.photo-ip.com",
-    "tags": [
-      "Archive"
-    ]
-  },
-  {
     "title": "Header",
     "url": "https://apex-collection.webflow.io/header/01",
     "tags": [
@@ -4343,6 +4627,7 @@
       "Product",
       "Light",
       "Minimal",
+      "Education",
       "Archive"
     ]
   },
@@ -4350,6 +4635,10 @@
     "title": "Antimetal",
     "url": "https://antimetal.com",
     "tags": [
+      "Product",
+      "App UI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4357,6 +4646,7 @@
     "title": "Cybervergent",
     "url": "https://www.cybervergent.com",
     "tags": [
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4367,6 +4657,7 @@
       "Product",
       "Light",
       "Minimal",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4387,6 +4678,7 @@
       "Product",
       "Light",
       "Minimal",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4396,6 +4688,7 @@
     "tags": [
       "Product",
       "Dark",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4406,6 +4699,7 @@
       "Product",
       "AI",
       "Dark",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4415,6 +4709,7 @@
     "tags": [
       "Product",
       "Dark",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4432,6 +4727,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -4439,6 +4735,11 @@
     "title": "SentinelOne",
     "url": "https://www.sentinelone.com",
     "tags": [
+      "Product",
+      "Cybersecurity",
+      "App UI",
+      "Dark",
+      "Bold",
       "Archive"
     ]
   },
@@ -4446,6 +4747,11 @@
     "title": "Drata",
     "url": "https://drata.com",
     "tags": [
+      "Product",
+      "Cybersecurity",
+      "App UI",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4456,6 +4762,7 @@
       "Product",
       "Light",
       "Illustration",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -4463,6 +4770,11 @@
     "title": "Aikido",
     "url": "https://www.aikido.dev",
     "tags": [
+      "Product",
+      "Cybersecurity",
+      "App UI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4499,6 +4811,8 @@
     "tags": [
       "Corporate",
       "Health",
+      "Light",
+      "3D",
       "Archive"
     ]
   },
@@ -4507,6 +4821,8 @@
     "url": "https://www.ibm.com/us-en",
     "tags": [
       "Corporate",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4514,6 +4830,9 @@
     "title": "scale.com",
     "url": "https://scale.com",
     "tags": [
+      "AI",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -4533,6 +4852,8 @@
     "url": "https://dribbble.com/shots/24128526-Blockchain-Wallet-Landing-Page",
     "tags": [
       "Web3",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4557,6 +4878,11 @@
     "title": "Template #1",
     "url": "https://nanocard.framer.website",
     "tags": [
+      "Fintech",
+      "Web3",
+      "Light",
+      "Minimal",
+      "3D",
       "Archive"
     ]
   },
@@ -4579,20 +4905,6 @@
       "Light",
       "Minimal",
       "Typography",
-      "Archive"
-    ]
-  },
-  {
-    "title": "Branding",
-    "url": "https://drive.google.com/drive/u/1/folders/1Baeutq3Tvg5uzbQpzsQncVntmJD1NPn8",
-    "tags": [
-      "Archive"
-    ]
-  },
-  {
-    "title": "Photos",
-    "url": "https://drive.google.com/drive/folders/1gxdprq_hxT48QBluzStKn1iT2YBjMtmR",
-    "tags": [
       "Archive"
     ]
   },
@@ -4622,6 +4934,8 @@
     "url": "https://www.scaleup.finance",
     "tags": [
       "Fintech",
+      "Dark",
+      "Photography",
       "Archive"
     ]
   },
@@ -4629,6 +4943,9 @@
     "title": "Made by Many",
     "url": "https://www.madebymany.com",
     "tags": [
+      "Agency",
+      "Dark",
+      "Typography",
       "Archive"
     ]
   },
@@ -4637,6 +4954,8 @@
     "url": "https://frame.io/integrations",
     "tags": [
       "Product",
+      "Dark",
+      "Photography",
       "Archive"
     ]
   },
@@ -4644,6 +4963,9 @@
     "title": "Better Stack",
     "url": "https://betterstack.com",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4669,6 +4991,10 @@
     "title": "Ronasit",
     "url": "https://ronasit.com",
     "tags": [
+      "Agency",
+      "Light",
+      "Minimal",
+      "Typography",
       "Archive"
     ]
   },
@@ -4705,6 +5031,10 @@
     "title": "PostHog",
     "url": "https://posthog.com",
     "tags": [
+      "Product",
+      "Light",
+      "Playful",
+      "Illustration",
       "Archive"
     ]
   },
@@ -4712,6 +5042,11 @@
     "title": "intercom.com",
     "url": "https://www.intercom.com",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "Minimal",
+      "Typography",
       "Archive"
     ]
   },
@@ -4719,6 +5054,11 @@
     "title": "Cursor",
     "url": "https://www.cursor.com",
     "tags": [
+      "Product",
+      "AI",
+      "App UI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4768,6 +5108,10 @@
     "url": "https://fdday.eu",
     "tags": [
       "Event",
+      "Dark",
+      "Photography",
+      "Colorful",
+      "Bold",
       "Archive"
     ]
   },
@@ -4776,6 +5120,9 @@
     "url": "https://dibiconference.com",
     "tags": [
       "Event",
+      "Dark",
+      "Typography",
+      "Illustration",
       "Archive"
     ]
   },
@@ -4783,6 +5130,9 @@
     "title": "UKF: The Home of Bass Music",
     "url": "https://ukf.com",
     "tags": [
+      "Dark",
+      "Bold",
+      "Photography",
       "Archive"
     ]
   },
@@ -4848,6 +5198,9 @@
     "title": "Raad Labs",
     "url": "https://raad.com",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4877,6 +5230,9 @@
     "url": "https://www.easya.io",
     "tags": [
       "Web3",
+      "Education",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -4944,6 +5300,8 @@
     "tags": [
       "Dark",
       "3D",
+      "Gaming",
+      "App UI",
       "Archive"
     ]
   },
@@ -4954,6 +5312,8 @@
       "Web3",
       "Dark",
       "3D",
+      "Gaming",
+      "App UI",
       "Archive"
     ]
   },
@@ -5000,6 +5360,10 @@
     "title": "Retrocore Website",
     "url": "https://www.behance.net/gallery/222232749/Retrocore-Website?l=7",
     "tags": [
+      "Gaming",
+      "Dark",
+      "Typography",
+      "Bold",
       "Archive"
     ]
   },
@@ -5031,6 +5395,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -5058,6 +5423,7 @@
     "tags": [
       "Dark",
       "Illustration",
+      "Gaming",
       "Archive"
     ]
   },
@@ -5075,6 +5441,7 @@
     "url": "https://www.pinterest.com/pin/4151824641634120",
     "tags": [
       "Dark",
+      "Gaming",
       "Archive"
     ]
   },
@@ -5083,6 +5450,7 @@
     "url": "https://www.pinterest.com/pin/234187249367271500",
     "tags": [
       "Dark",
+      "Gaming",
       "Archive"
     ]
   },
@@ -5092,6 +5460,7 @@
     "tags": [
       "Dark",
       "3D",
+      "Gaming",
       "Archive"
     ]
   },
@@ -5099,6 +5468,7 @@
     "title": "The Wild World of Cyberpunk Casino by Lime Agency",
     "url": "https://dribbble.com/shots/25860025-The-Wild-World-of-Cyberpunk-Casino",
     "tags": [
+      "Gaming",
       "Archive"
     ]
   },
@@ -5116,6 +5486,7 @@
       "Dark",
       "Bold",
       "Colorful",
+      "Gaming",
       "Archive"
     ]
   },
@@ -5126,6 +5497,7 @@
       "Web3",
       "Product",
       "Dark",
+      "App UI",
       "Archive"
     ]
   },
@@ -5137,6 +5509,7 @@
       "Dark",
       "Bold",
       "Typography",
+      "App UI",
       "Archive"
     ]
   },
@@ -5147,6 +5520,8 @@
       "Web3",
       "Dark",
       "3D",
+      "Gaming",
+      "App UI",
       "Archive"
     ]
   },
@@ -5154,6 +5529,11 @@
     "title": "O",
     "url": "https://www.o.xyz",
     "tags": [
+      "AI",
+      "Cybersecurity",
+      "Dark",
+      "Minimal",
+      "Photography",
       "Archive"
     ]
   },
@@ -5171,6 +5551,9 @@
     "title": "ithacaprotocol.io",
     "url": "https://www.ithacaprotocol.io",
     "tags": [
+      "Web3",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -5190,6 +5573,11 @@
     "title": "Sirena",
     "url": "https://sirena.team",
     "tags": [
+      "Agency",
+      "Dark",
+      "3D",
+      "Playful",
+      "Colorful",
       "Archive"
     ]
   },
@@ -5265,6 +5653,10 @@
     "title": "Sui",
     "url": "https://sui.io",
     "tags": [
+      "Web3",
+      "AI",
+      "Dark",
+      "Bold",
       "Archive"
     ]
   },
@@ -5295,6 +5687,9 @@
     "title": "ax1.vc",
     "url": "https://ax1.vc",
     "tags": [
+      "Dark",
+      "Minimal",
+      "Typography",
       "Archive"
     ]
   },
@@ -5302,6 +5697,9 @@
     "title": "Alongside",
     "url": "https://alongside.vahrushev.eu",
     "tags": [
+      "Web3",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -5355,6 +5753,10 @@
     "title": "Augen",
     "url": "https://augen.pro",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
+      "Photography",
       "Archive"
     ]
   },
@@ -5418,6 +5820,10 @@
     "title": "Vendredi Society",
     "url": "https://vendredi-society.com",
     "tags": [
+      "Agency",
+      "Light",
+      "Minimal",
+      "3D",
       "Archive"
     ]
   },
@@ -5489,6 +5895,8 @@
     "tags": [
       "Shop",
       "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -5532,6 +5940,9 @@
     "title": "monopo saigon",
     "url": "https://monopo.vn",
     "tags": [
+      "Agency",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -5571,6 +5982,10 @@
     "title": "Cuban’s EDGE",
     "url": "https://www.cubansedge.com",
     "tags": [
+      "Fintech",
+      "Dark",
+      "Typography",
+      "Bold",
       "Archive"
     ]
   },
@@ -5585,6 +6000,10 @@
     "title": "canvascreative.co",
     "url": "https://canvascreative.co",
     "tags": [
+      "Agency",
+      "Dark",
+      "Minimal",
+      "3D",
       "Archive"
     ]
   },
@@ -5651,6 +6070,7 @@
       "AI",
       "Dark",
       "Photography",
+      "Cybersecurity",
       "Archive"
     ]
   },
@@ -5680,6 +6100,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -5691,6 +6112,7 @@
       "Product",
       "Dark",
       "Colorful",
+      "App UI",
       "Archive"
     ]
   },
@@ -5702,6 +6124,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   },
@@ -5713,6 +6136,7 @@
       "Product",
       "Light",
       "Minimal",
+      "App UI",
       "Archive"
     ]
   }

@@ -22,6 +22,24 @@ function writeParams({ view, tags, q }) {
   window.history.replaceState(null, '', qs ? `?${qs}` : window.location.pathname);
 }
 
+// Screenshots fade in once loaded instead of popping in while scrolling.
+function Shot({ src }) {
+  const [loaded, setLoaded] = useState(false);
+  return (
+    <img
+      ref={(el) => { if (el?.complete) setLoaded(true); }}
+      onLoad={() => setLoaded(true)}
+      className={loaded ? 'is-loaded' : undefined}
+      src={src}
+      alt=""
+      loading="lazy"
+      decoding="async"
+      width="960"
+      height="600"
+    />
+  );
+}
+
 export default function InspoBrowser({ items, groups, boards }) {
   const [view, setView] = useState('sites');
   const [tags, setTags] = useState([]);
@@ -133,7 +151,7 @@ export default function InspoBrowser({ items, groups, boards }) {
                   <a href={it.url} target="_blank" rel="noreferrer" className="card-link">
                     <div className="card-media">
                       {it.image ? (
-                        <img src={it.image} alt="" loading="lazy" decoding="async" width="960" height="600" />
+                        <Shot src={it.image} />
                       ) : (
                         <span className="card-placeholder">{it.domain}</span>
                       )}

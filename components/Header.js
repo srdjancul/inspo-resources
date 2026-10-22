@@ -16,6 +16,8 @@ export default function Header() {
       </nav>
       <a className="btn-outline" href={`${REPO_URL}/blob/main/CONTRIBUTING.md`} target="_blank" rel="noreferrer">
         Add a link
+        <svg className="ext" viewBox="0 0 12 12" width="12" height="12" aria-hidden="true"><path d="M3.5 8.5l5-5M4.5 3.5h4v4" /></svg>
+        <span className="visually-hidden"> (opens the guide on GitHub)</span>
       </a>
     </header>
   );

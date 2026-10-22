@@ -36,6 +36,8 @@ function checkList(file, required, extra) {
 checkList('inspo.json', ['title', 'url'], (it, where) => {
   if (it.tags !== undefined && !(Array.isArray(it.tags) && it.tags.every((t) => typeof t === 'string')))
     errors.push(`${where}: "tags" must be a list like ["Agency", "Hero"]`);
+  if (it.screenshot !== undefined && typeof it.screenshot !== 'boolean')
+    errors.push(`${where}: "screenshot" must be true or false`);
   for (const t of it.tags || []) if (!knownTags.has(t)) warnings.push(`${where}: tag "${t}" is not in taxonomy.json (it will show under "Other")`);
 });
 checkList('resources.json', ['title', 'url', 'category', 'description']);

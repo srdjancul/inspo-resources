@@ -49,6 +49,8 @@ async function isBlank(input) {
 const todo = [];
 for (const it of items) {
   if (only.length && !only.includes(it.url)) continue;
+  // "screenshot": false marks sites that can't be captured (bot walls, endless loaders); skip unless named explicitly.
+  if (it.screenshot === false && !only.includes(it.url)) continue;
   const file = path.join(OUT, slugify(it.url) + '.webp');
   if (!force && !only.length && (await exists(file)) && !(redoBlank && (await isBlank(file)))) continue;
   todo.push({ ...it, file });

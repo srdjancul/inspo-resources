@@ -16,6 +16,7 @@ Ne treba ti ništa da instaliraš. Sve se radi na GitHubu u browseru.
 ```
 
 3. *Commit changes*, i to je to. Za par minuta sajt dobija screenshot i pojavljuje se **prvi** u listi.
+   Ako se sajt ne može uslikati (Cloudflare provera, beskonačan loader), dodaj `"screenshot": false` i kartica će prikazati naziv domena umesto slike.
    Screenshot pravi GitHub Action „Screenshots”: sam klikne „Accept” na cookie banneru i sačeka intro loader. Ako slika ipak ispadne loše, pokreni lokalno `npm run shots -- https://link-sajta` i commituj sliku iz `public/shots/`.
 
 **Tagovi** su u [`data/taxonomy.json`](data/taxonomy.json), podeljeni u grupe:

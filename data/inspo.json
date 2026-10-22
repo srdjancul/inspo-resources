@@ -50,7 +50,8 @@
     "url": "https://www.pinterest.com/pin/198369558582223163",
     "tags": [
       "Elements"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Glassy Button",
@@ -199,7 +200,8 @@
   {
     "title": "index.app",
     "url": "https://index.app/beta",
-    "tags": []
+    "tags": [],
+    "screenshot": false
   },
   {
     "title": "clearbit.com",
@@ -222,7 +224,11 @@
   {
     "title": "Konpo",
     "url": "https://www.konpo.studio",
-    "tags": []
+    "tags": [
+      "Agency",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Kelvin Zero",
@@ -361,7 +367,11 @@
   {
     "title": "retronovaworld.webflow.io",
     "url": "https://retronovaworld.webflow.io",
-    "tags": []
+    "tags": [
+      "Dark",
+      "Illustration",
+      "Bold"
+    ]
   },
   {
     "title": "Aker",
@@ -387,7 +397,10 @@
     "title": "Otto",
     "url": "https://www.ottografie.nl/celebrities",
     "tags": [
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Photography",
+      "Typography"
     ]
   },
   {
@@ -395,7 +408,8 @@
     "url": "https://membersexperience-create.lacoste.com/gb/en",
     "tags": [
       "Fashion"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "irys.xyz",
@@ -467,7 +481,8 @@
   {
     "title": "OddCommon",
     "url": "https://www.oddcommon.com",
-    "tags": []
+    "tags": [],
+    "screenshot": false
   },
   {
     "title": "Yellow Fellow",
@@ -540,12 +555,14 @@
     "url": "https://www.soscalemedia.se",
     "tags": [
       "Agency"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Umbrel",
     "url": "https://godly.website/website/umbrel-975",
-    "tags": []
+    "tags": [],
+    "screenshot": false
   },
   {
     "title": "Flareum",
@@ -588,12 +605,14 @@
     "url": "https://www.nationalgeographic.com/into-the-amazon",
     "tags": [
       "Culture"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Composite materials",
     "url": "https://www.composites.archi",
-    "tags": []
+    "tags": [],
+    "screenshot": false
   },
   {
     "title": "basement.studio",
@@ -643,26 +662,30 @@
   {
     "title": "Zoetrope & Shadow",
     "url": "https://dimsum002.resn.global",
-    "tags": []
+    "tags": [],
+    "screenshot": false
   },
   {
     "title": "Ibicash",
     "url": "https://www.ibi.cash",
     "tags": [
       "Playful"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Topology",
     "url": "https://www.topology.vc",
-    "tags": []
+    "tags": [],
+    "screenshot": false
   },
   {
     "title": "BlueYard Capital",
     "url": "https://blueyard.com",
     "tags": [
       "Corporate"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "The New Quechua Collection",
@@ -677,7 +700,8 @@
   {
     "title": "Inkwell",
     "url": "https://inkwell.tech",
-    "tags": []
+    "tags": [],
+    "screenshot": false
   },
   {
     "title": "DICH™ Fashion",
@@ -693,7 +717,11 @@
     "title": "Hugo Baron",
     "url": "https://nuageboi.fr",
     "tags": [
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Bold",
+      "Typography",
+      "Colorful"
     ]
   },
   {
@@ -778,7 +806,10 @@
     "title": "Unikorns Agency",
     "url": "https://unikorns.agency",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
@@ -823,7 +854,9 @@
     "title": "Lusion",
     "url": "https://lusion.co",
     "tags": [
-      "Agency"
+      "Agency",
+      "3D",
+      "Bold"
     ]
   },
   {
@@ -869,14 +902,17 @@
     "url": "https://www.therobot.tv",
     "tags": [
       "Agency"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "GSAP Showcase",
     "url": "https://gsap.com/showcase",
     "tags": [
       "Agency",
-      "Product"
+      "Product",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -925,7 +961,8 @@
     "url": "https://kern.uprock.pro",
     "tags": [
       "Product"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Collider",
@@ -962,20 +999,25 @@
     "tags": [
       "Product",
       "Fintech"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Elva",
     "url": "https://elva-labs.com",
     "tags": [
       "Product"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "PulzCAD",
     "url": "https://www.pulz.ai",
     "tags": [
-      "Product"
+      "Product",
+      "Health",
+      "Dark",
+      "3D"
     ]
   },
   {
@@ -983,14 +1025,16 @@
     "url": "https://forgeautomotive.co.uk",
     "tags": [
       "Product"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Seasats",
     "url": "https://www.seasats.com",
     "tags": [
       "Product"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Phantom Studios",
@@ -1093,7 +1137,8 @@
     "url": "https://www.liqium.com",
     "tags": [
       "Agency"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "R—K Design & Code",
@@ -1232,7 +1277,8 @@
     "tags": [
       "Agency",
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Léo Parpeix — Art director & interactive designer",
@@ -1249,14 +1295,20 @@
     "url": "https://daikifujita.com",
     "tags": [
       "Agency",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Typography",
+      "3D"
     ]
   },
   {
     "title": "Permian",
     "url": "https://www.permianworld.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Fashion",
+      "Light",
+      "Photography"
     ]
   },
   {
@@ -1264,13 +1316,16 @@
     "url": "https://www.hape.io",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "until",
     "url": "https://www.untillabs.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -1278,14 +1333,21 @@
     "url": "https://vibrant.noomoagency.com",
     "tags": [
       "Branding",
-      "Health"
+      "Health",
+      "Light",
+      "Colorful",
+      "Minimal"
     ]
   },
   {
     "title": "Anyflow labs",
     "url": "https://labs.anyflow.agency",
     "tags": [
-      "Branding"
+      "Branding",
+      "Agency",
+      "Light",
+      "Bold",
+      "Typography"
     ]
   },
   {
@@ -1293,7 +1355,8 @@
     "url": "https://damngoodbrands.com",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Google Cloud x Team USA",
@@ -1310,7 +1373,8 @@
     "url": "https://www.lumos-marketing.com",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Darknode",
@@ -1327,7 +1391,8 @@
     "tags": [
       "Branding",
       "Culture"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Hear",
@@ -1346,7 +1411,8 @@
     "tags": [
       "Branding",
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "ORYZO AI",
@@ -1354,13 +1420,16 @@
     "tags": [
       "Branding",
       "AI"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "SOM",
     "url": "https://www.drinksom.eu",
     "tags": [
-      "Branding"
+      "Branding",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -1388,7 +1457,8 @@
     "url": "https://wearefleshandbones.com",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Video Production Brisbane",
@@ -1436,7 +1506,8 @@
     "url": "https://podium.global",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Son Daven",
@@ -1470,7 +1541,8 @@
     "url": "https://larevoltosa.es",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Perplexity x CR7",
@@ -1521,14 +1593,16 @@
     "url": "https://sidewave.it",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "HERO",
     "url": "https://www.herostudios.tv",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Lightdash x DesignMe",
@@ -1544,7 +1618,11 @@
     "title": "raymona",
     "url": "https://www.raymonafa.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Portfolio",
+      "Light",
+      "3D",
+      "Typography"
     ]
   },
   {
@@ -1563,7 +1641,8 @@
     "url": "https://santionispirits.com",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Rocket Brand Guidelines",
@@ -1716,7 +1795,8 @@
     "url": "https://jjettas.com",
     "tags": [
       "Branding"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Design for AI Startups",
@@ -1744,7 +1824,8 @@
     "url": "https://www.awwwards.com/sites/hyperbolic-site",
     "tags": [
       "Corporate"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Factory",
@@ -1762,7 +1843,8 @@
     "url": "https://www.autexacoustics.com",
     "tags": [
       "Corporate"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "PAVE",
@@ -1933,7 +2015,8 @@
       "AI",
       "Product",
       "Cybersecurity"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Fictional Spaces",
@@ -1969,7 +2052,8 @@
     "url": "https://www.machinezero.it",
     "tags": [
       "Grid"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "We do Social Space",
@@ -2039,7 +2123,8 @@
     "url": "https://wip.workoholics.es/en",
     "tags": [
       "Grid"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "mosbyfiles.com",
@@ -2082,7 +2167,10 @@
     "url": "https://109ichiki.com",
     "tags": [
       "Playful",
-      "Portfolio"
+      "Portfolio",
+      "Light",
+      "Illustration",
+      "Colorful"
     ]
   },
   {
@@ -2133,7 +2221,10 @@
     "title": "Planetoño",
     "url": "https://www.planetono.space",
     "tags": [
-      "Playful"
+      "Playful",
+      "Colorful",
+      "Bold",
+      "Illustration"
     ]
   },
   {
@@ -2161,7 +2252,11 @@
     "title": "MindJoin",
     "url": "https://mindjoin.netlify.app",
     "tags": [
-      "Playful"
+      "Playful",
+      "AI",
+      "Dark",
+      "Illustration",
+      "Bold"
     ]
   },
   {
@@ -2173,7 +2268,8 @@
       "Dark",
       "Minimal",
       "Typography"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "gt-planar.com",
@@ -2218,7 +2314,8 @@
     "url": "https://neongrid.site",
     "tags": [
       "Playful"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Champions for Good Club",
@@ -2245,7 +2342,8 @@
     "tags": [
       "Playful",
       "Portfolio"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Janna Deloume",
@@ -2294,7 +2392,8 @@
     "tags": [
       "Playful",
       "Portfolio"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Noomo",
@@ -2302,7 +2401,8 @@
     "tags": [
       "Playful",
       "Agency"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Cyera AI Guardian",
@@ -2311,21 +2411,24 @@
       "Playful",
       "AI",
       "Cybersecurity"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "FUNTECH BRAND IDENTITY",
     "url": "https://ci.funtech.inc/en/ci-update",
     "tags": [
       "Playful"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Αρχική",
     "url": "https://units.gr",
     "tags": [
       "Playful"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "orwell.byholm.co",
@@ -2334,7 +2437,8 @@
       "Playful",
       "Dark",
       "Minimal"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Portfolio",
@@ -2371,7 +2475,9 @@
     "url": "https://why.zero.university",
     "tags": [
       "Playful",
-      "Education"
+      "Education",
+      "Light",
+      "3D"
     ]
   },
   {
@@ -2380,14 +2486,16 @@
     "tags": [
       "Playful",
       "Portfolio"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Everest",
     "url": "https://everest.suraj.work",
     "tags": [
       "Playful"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Pear",
@@ -2404,7 +2512,8 @@
     "url": "https://overworldaudio.com",
     "tags": [
       "Playful"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Cover",
@@ -2422,7 +2531,8 @@
     "url": "https://quadplex80.com",
     "tags": [
       "Real estate"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Readymag templates: Crystyle",
@@ -2482,7 +2592,9 @@
     "url": "https://ova-investment.com",
     "tags": [
       "Modern",
-      "Fintech"
+      "Fintech",
+      "Light",
+      "3D"
     ]
   },
   {
@@ -2542,7 +2654,10 @@
     "title": "Hut 8",
     "url": "https://www.hut8.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Corporate",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -2581,7 +2696,8 @@
     "url": "https://manychat.com",
     "tags": [
       "Modern"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Alethia",
@@ -2619,7 +2735,8 @@
       "Modern",
       "Dark",
       "Minimal"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "happly gummies",
@@ -2627,13 +2744,17 @@
     "tags": [
       "Modern",
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Yango Group",
     "url": "https://yango.com/en_int",
     "tags": [
-      "Modern"
+      "Modern",
+      "Corporate",
+      "Photography",
+      "Bold"
     ]
   },
   {
@@ -2730,7 +2851,8 @@
     "url": "https://titangatequity.com",
     "tags": [
       "Modern"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Zero",
@@ -2748,7 +2870,8 @@
     "url": "https://www.usavionix.com",
     "tags": [
       "Modern"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Butter Video",
@@ -2765,7 +2888,8 @@
     "url": "https://www.awwwards.com/sites/de-bijenkorf-magical-forest",
     "tags": [
       "Modern"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Aevion",
@@ -2786,7 +2910,8 @@
       "Light",
       "Typography",
       "Minimal"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Cathy DOLLE",
@@ -2865,7 +2990,8 @@
     "url": "https://www.secretlevel.co",
     "tags": [
       "Gallery"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Spark & Riot",
@@ -2892,14 +3018,19 @@
     "url": "https://obys.agency",
     "tags": [
       "Gallery",
-      "Agency"
+      "Agency",
+      "Light",
+      "Minimal",
+      "Grid"
     ]
   },
   {
     "title": "NaughtyDuk©",
     "url": "https://naughtyduk.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -2917,7 +3048,10 @@
     "title": "Partizan",
     "url": "https://partizan.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Light",
+      "Photography",
+      "Grid"
     ]
   },
   {
@@ -2948,14 +3082,19 @@
       "Gallery",
       "Light",
       "Minimal"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Il Capo Production",
     "url": "https://www.ilcapoproduction.com",
     "tags": [
       "Gallery",
-      "Agency"
+      "Agency",
+      "Dark",
+      "Bold",
+      "Typography",
+      "Photography"
     ]
   },
   {
@@ -2996,7 +3135,8 @@
       "Gallery",
       "Dark",
       "Minimal"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "inspiring.nk.studio",
@@ -3014,7 +3154,8 @@
     "tags": [
       "Gallery",
       "Portfolio"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Le Mans Classic",
@@ -3074,7 +3215,8 @@
     "tags": [
       "Gallery",
       "Portfolio"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Loop Creative Agency",
@@ -3140,7 +3282,8 @@
     "url": "https://www.awwwards.com/inspiration/footer-cosmos-studio",
     "tags": [
       "Footer"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "How Superpower works",
@@ -3220,14 +3363,16 @@
     "url": "https://www.awwwards.com/inspiration/team-t11-1",
     "tags": [
       "Team"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Herp",
     "url": "https://www.auremin.com",
     "tags": [
       "Hero"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Joele Frank",
@@ -3274,7 +3419,8 @@
     "url": "https://ascension.pegassi.be",
     "tags": [
       "Hero"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Green Powder For A Daily Boost",
@@ -3300,21 +3446,24 @@
     "url": "https://www.pixelvault.fit",
     "tags": [
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Odd Ritual",
     "url": "https://oddritualgolf.com",
     "tags": [
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Kaalcari",
     "url": "https://liquidink.design/kaalcari_web",
     "tags": [
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Watches & Wonders",
@@ -3322,7 +3471,8 @@
     "tags": [
       "Shop",
       "Fashion"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "OUTFIT® by ++hellohello",
@@ -3341,7 +3491,8 @@
     "tags": [
       "Shop",
       "Fashion"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Serotoninn",
@@ -3359,7 +3510,8 @@
     "url": "https://www.ciaoenergy.com",
     "tags": [
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Miu Miu",
@@ -3367,7 +3519,8 @@
     "tags": [
       "Shop",
       "Fashion"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "natureofthings",
@@ -3384,14 +3537,16 @@
     "url": "https://www.active-hop.com",
     "tags": [
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Awwwards Nominees",
     "url": "https://www.awwwards.com/sites/zoi-ice-tea",
     "tags": [
       "Shop"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "PSN/OWN",
@@ -3410,7 +3565,8 @@
     "tags": [
       "Product",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "intechnic.com",
@@ -3709,7 +3865,8 @@
     "tags": [
       "Health",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Services",
@@ -3790,7 +3947,8 @@
     "tags": [
       "Health",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "graph-elements",
@@ -3885,7 +4043,8 @@
     "tags": [
       "Product",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Todoist",
@@ -3979,7 +4138,8 @@
       "Product",
       "Cybersecurity",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "OwnID",
@@ -4126,7 +4286,8 @@
       "Product",
       "Gaming",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "On-demand Consumer Research",
@@ -4177,7 +4338,8 @@
     "url": "https://www.behance.net/gallery/146237507/MONK-Link-in-bio-website-for-gamers-esports",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "storm.framer.website",
@@ -4228,7 +4390,8 @@
     "tags": [
       "Shop",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "check2",
@@ -4246,7 +4409,8 @@
     "tags": [
       "Shop",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Exa",
@@ -4308,7 +4472,8 @@
     "url": "https://www.relumeipsum.com",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "gradient Ragebite",
@@ -4316,7 +4481,8 @@
     "tags": [
       "Web3",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "upguard.com",
@@ -4431,7 +4597,8 @@
     "url": "https://www.behance.net/gallery/185532475/Finvue-website-platform",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "All Icons by Faizal khusein",
@@ -4479,7 +4646,8 @@
     "url": "https://www.siteinspire.com/websites?categories=131",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Fabio Nobile - Tilestone - Real Estate Website Design – SAVEE",
@@ -4648,7 +4816,8 @@
     "tags": [
       "Cybersecurity",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "cybellum.com",
@@ -4718,7 +4887,8 @@
     "url": "https://jfrog.com",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Vidyard",
@@ -4802,6 +4972,10 @@
     "title": "dtre.com",
     "url": "https://dtre.com",
     "tags": [
+      "Corporate",
+      "Real estate",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -4861,6 +5035,9 @@
     "title": "Cuttthecode",
     "url": "https://www.cutthecode.com/no-code-development",
     "tags": [
+      "Agency",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4975,7 +5152,8 @@
     "tags": [
       "Health",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "CloudZero",
@@ -5185,14 +5363,16 @@
     "tags": [
       "Corporate",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Rosehip",
     "url": "https://roseship.netlify.app",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Raad Labs",
@@ -5209,12 +5389,16 @@
     "url": "https://sites.research.google/languages",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "ONTO",
     "url": "https://studio-onto.com",
     "tags": [
+      "Agency",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -5223,7 +5407,8 @@
     "url": "https://pump.fun/board",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Learn about web3 and earn",
@@ -5254,7 +5439,8 @@
     "tags": [
       "Web3",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Base",
@@ -5292,7 +5478,8 @@
     "url": "https://www.rayraylab.com",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "VegaBet - Online Casino Platform by Sok Studio",
@@ -5322,7 +5509,8 @@
     "url": "https://dribbble.com/search/crypto-casino",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Phaetus",
@@ -5414,6 +5602,8 @@
     "url": "https://www.deviantart.com/evil-s/art/Starlight-Mobile-UI-649290161",
     "tags": [
       "Dark",
+      "App UI",
+      "Gaming",
       "Archive"
     ]
   },
@@ -5470,14 +5660,16 @@
     "tags": [
       "Gaming",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Browse thousands of Casino Cyberpunk images for design inspiration | D",
     "url": "https://dribbble.com/search/casino-cyberpunk",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Casino style Cyberpunk 2077",
@@ -5636,7 +5828,8 @@
     "url": "https://betcfullsix.com",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Alex Barashkov on X: \"Learn how we created a light beam from @neondata",
@@ -5728,6 +5921,11 @@
     "title": "qonto.com",
     "url": "https://qonto.com/en",
     "tags": [
+      "Fintech",
+      "Product",
+      "Dark",
+      "Minimal",
+      "3D",
       "Archive"
     ]
   },
@@ -5736,7 +5934,8 @@
     "url": "https://story.selectcard.co/app",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Jamie",
@@ -5797,14 +5996,16 @@
     "tags": [
       "Product",
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Team",
     "url": "https://www.awwwards.com/inspiration/team-vendredi-society-c-v2",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Chirp",
@@ -5855,6 +6056,10 @@
     "url": "https://www.sofihealth.com",
     "tags": [
       "Health",
+      "Light",
+      "Bold",
+      "Typography",
+      "Photography",
       "Archive"
     ]
   },
@@ -5905,7 +6110,8 @@
     "url": "https://immersive-g.com",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "HF-11",
@@ -5934,7 +6140,8 @@
     "url": "https://anaudienceofone.co",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "monopo saigon",
@@ -5994,7 +6201,8 @@
     "url": "https://www.itsoffbrand.com",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "canvascreative.co",
@@ -6022,6 +6230,8 @@
     "title": "Accueil",
     "url": "https://vendredi-society.fr",
     "tags": [
+      "Agency",
+      "3D",
       "Archive"
     ]
   },
@@ -6042,7 +6252,8 @@
     "url": "https://monopo.nyc",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "monopo london",
@@ -6059,6 +6270,8 @@
     "title": "DV8",
     "url": "https://dv8.bz",
     "tags": [
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -6090,7 +6303,8 @@
     "url": "https://www.unicorn.studio/remix/lEImnad4aMBm4BBZpdx7",
     "tags": [
       "Archive"
-    ]
+    ],
+    "screenshot": false
   },
   {
     "title": "Crypto Exchange Dashboard by Nixtio",

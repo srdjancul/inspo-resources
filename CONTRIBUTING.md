@@ -16,11 +16,13 @@ Ne treba ti ništa da instaliraš. Sve se radi na GitHubu u browseru.
 ```
 
 3. *Commit changes*, i to je to. Za par minuta sajt dobija screenshot i pojavljuje se **prvi** u listi.
+   Screenshot pravi GitHub Action „Screenshots”: sam klikne „Accept” na cookie banneru i sačeka intro loader. Ako slika ipak ispadne loše, pokreni lokalno `npm run shots -- https://link-sajta` i commituj sliku iz `public/shots/`.
 
 **Tagovi** su u [`data/taxonomy.json`](data/taxonomy.json), podeljeni u grupe:
 
-- **Site type**: Agency, Product, Branding, Corporate, Shop, Real estate, Gallery, Blog
-- **Style**: Modern, Playful, Grid, Luxury, Typography, Motion
+- **Site type**: Agency, Portfolio, Product, AI, Web3, Fintech, Health, Corporate, Branding, Shop, Real estate, Event, Gallery, Blog, App UI, Gaming, Cybersecurity, Fashion, Architecture, Education, Culture
+- **Theme**: Dark, Light. Stavi jedan od ova dva na svaki sajt
+- **Style**: Minimal, Bold, Modern, Playful, Grid, Luxury, Typography, 3D, Illustration, Colorful, Photography, Motion
 - **Section**: Hero, Footer, Process, Metrics, Roadmap, Team
 - **Collection**: Elements, Archive
 

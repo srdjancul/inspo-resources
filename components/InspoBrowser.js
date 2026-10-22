@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import HexArrow from './HexArrow';
 
 // Filters live in the URL (?view=boards&tags=Hero,Grid&q=bank) so a filtered view can be shared.
@@ -27,6 +27,20 @@ export default function InspoBrowser({ items, groups, boards }) {
   const [tags, setTags] = useState([]);
   const [q, setQ] = useState('');
   const [ready, setReady] = useState(false);
+  const segRef = useRef(null);
+  const [pill, setPill] = useState(null);
+
+  // Measure the active tab so the pill can slide to it.
+  useLayoutEffect(() => {
+    const measure = () => {
+      const el = segRef.current?.querySelector('[aria-selected="true"]');
+      if (el) setPill({ x: el.offsetLeft, w: el.offsetWidth });
+    };
+    measure();
+    document.fonts?.ready.then(measure);
+    window.addEventListener('resize', measure);
+    return () => window.removeEventListener('resize', measure);
+  }, [view]);
 
   useEffect(() => {
     const s = readParams();
@@ -64,7 +78,10 @@ export default function InspoBrowser({ items, groups, boards }) {
     <main className="page">
       <div className="page-head">
         <h1 className="page-title">Inspiration</h1>
-        <div className="segmented" role="tablist" aria-label="View">
+        <div ref={segRef} className={`segmented${pill ? ' is-ready' : ''}`} role="tablist" aria-label="View">
+          {pill && (
+            <span className="segmented-pill" style={{ width: pill.w, transform: `translateX(${pill.x}px)` }} aria-hidden="true" />
+          )}
           <button role="tab" aria-selected={view === 'sites'} onClick={() => setView('sites')}>
             Websites <span className="count">{items.length}</span>
           </button>
@@ -75,7 +92,7 @@ export default function InspoBrowser({ items, groups, boards }) {
       </div>
 
       {view === 'sites' ? (
-        <>
+        <div key="sites" className="fade-in">
           <section className="filters" aria-label="Filters">
             <div className="search-row">
               <input
@@ -110,7 +127,7 @@ export default function InspoBrowser({ items, groups, boards }) {
           </section>
 
           {filtered.length ? (
-            <ul className="grid">
+            <ul key={tags.join('|')} className="grid fade-in">
               {filtered.map((it) => (
                 <li key={it.url} className="card">
                   <a href={it.url} target="_blank" rel="noreferrer" className="card-link">
@@ -145,9 +162,9 @@ export default function InspoBrowser({ items, groups, boards }) {
               <button className="text-link" onClick={() => { setTags([]); setQ(''); }}>Clear filters</button>
             </div>
           )}
-        </>
+        </div>
       ) : (
-        <section aria-label="Pinterest moodboards">
+        <section key="boards" className="fade-in" aria-label="Pinterest moodboards">
           <p className="lede">Each board opens on Pinterest — save new pins there and they show up for everyone.</p>
           <ul className="boards">
             {boards.map((b) => (

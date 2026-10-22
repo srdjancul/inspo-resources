@@ -1,8 +1,12 @@
+'use client';
+
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 
 export const REPO_URL = 'https://github.com/srdjancul/inspo-resources';
 
-export default function Header({ active }) {
+export default function Header() {
+  const active = usePathname().split('/')[1];
   return (
     <header className="site-header">
       <Link href="/" className="wordmark">Inspo &amp; Resources</Link>

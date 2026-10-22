@@ -98,15 +98,17 @@ async function worker() {
     const page = await context.newPage();
     try {
       const host = new URL(it.url).hostname;
-      let buf;
-      if (PREVIEW_IMAGE_HOSTS.test(host)) {
-        buf = await previewImage(page, it.url).catch((e) => {
-          if (e.message.startsWith('dead link')) throw e;
-          return screenshot(page, it.url);
-        });
-      } else {
-        buf = await screenshot(page, it.url);
-      }
+      const capture = PREVIEW_IMAGE_HOSTS.test(host)
+        ? previewImage(page, it.url).catch((e) => {
+            if (e.message.startsWith('dead link')) throw e;
+            return screenshot(page, it.url);
+          })
+        : screenshot(page, it.url);
+      // Hard cap per site so one hanging page can't stall the whole run.
+      const buf = await Promise.race([
+        capture,
+        new Promise((_, reject) => setTimeout(() => reject(new Error('timed out')), 90000)),
+      ]);
       await save(buf, it.file);
     } catch (e) {
       failed.push(`${it.url}  (${e.message.split('\n')[0]})`);

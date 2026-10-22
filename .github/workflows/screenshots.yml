@@ -1,8 +1,10 @@
 name: Screenshots
 
 # When someone adds a website to data/inspo.json, capture its preview image and commit it.
-# The push trigger is switched on once the initial batch of screenshots is committed.
 on:
+  push:
+    branches: [main]
+    paths: ['data/inspo.json']
   workflow_dispatch:
 
 permissions:

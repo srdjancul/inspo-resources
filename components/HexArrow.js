@@ -9,7 +9,8 @@ export default function HexArrow({ size = 48, direction = 'up-right' }) {
           d="M16.2 4.5h15.6a4 4 0 0 1 3.46 2l7.8 13.5a4 4 0 0 1 0 4l-7.8 13.5a4 4 0 0 1-3.46 2H16.2a4 4 0 0 1-3.46-2L4.94 24a4 4 0 0 1 0-4l7.8-13.5a4 4 0 0 1 3.46-2z"
         />
         <g transform={`rotate(${rotate} 24 24)`}>
-          <path className="hex-arrow" d="M20 28l8-8M21.5 20H28v6.5" />
+          {/* shifted so the arrow's visual weight (not its bounding box) sits in the middle */}
+          <path className="hex-arrow" d="M19 29l8-8M20.5 21H27v6.5" />
         </g>
       </svg>
     </span>

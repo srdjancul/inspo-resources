@@ -3,6 +3,7 @@
 //        npm run shots -- --blank   (also redo blank/blank-ish captures)
 //        npm run shots -- --force   (redo all)
 //        npm run shots -- <url>     (redo one)
+//        npm run shots -- --list=urls.txt (redo every URL in the file, one per line)
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { chromium } from 'playwright';
@@ -12,12 +13,18 @@ import { slugify, PREVIEW_IMAGE_HOSTS } from '../lib/slug.mjs';
 const ROOT = path.resolve(import.meta.dirname, '..');
 const OUT = path.join(ROOT, 'public/shots');
 const WIDTH = 960, HEIGHT = 600;
-const CONCURRENCY = Number(process.env.SHOTS_CONCURRENCY || 6);
+// Heavy sites need CPU to finish their intro; keep concurrency modest.
+const CONCURRENCY = Number(process.env.SHOTS_CONCURRENCY || 4);
+const WAIT = Number(process.env.SHOTS_WAIT || 5000);
 
 const args = process.argv.slice(2);
 const force = args.includes('--force');
 const redoBlank = args.includes('--blank');
-const only = args.filter((a) => a.startsWith('http'));
+const listFile = args.find((a) => a.startsWith('--list='))?.slice(7);
+const only = [
+  ...args.filter((a) => a.startsWith('http')),
+  ...(listFile ? (await fs.readFile(listFile, 'utf8')).split('\n').map((l) => l.trim()).filter(Boolean) : []),
+];
 
 const items = JSON.parse(await fs.readFile(path.join(ROOT, 'data/inspo.json'), 'utf8'));
 await fs.mkdir(OUT, { recursive: true });
@@ -95,7 +102,7 @@ async function screenshot(page, url) {
     if (!/Timeout/.test(e.message)) throw e; // slow sites: shoot whatever rendered
   }
   await page.addStyleTag({ content: HIDE_OVERLAYS }).catch(() => {});
-  await page.waitForTimeout(3500);
+  await page.waitForTimeout(WAIT);
   let shot = await page.screenshot({ type: 'jpeg', quality: 90 });
   // Intro loaders: give the page more time before giving up on a blank frame.
   for (let i = 0; i < 2 && (await isBlank(shot)); i++) {

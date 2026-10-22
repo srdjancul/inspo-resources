@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Awwwards",
+    "url": "https://www.awwwards.com",
+    "category": "Inspiration",
+    "description": "Daily web design awards — best-of-the-web sites, collections and juries."
+  },
+  {
+    "title": "Refero",
+    "url": "https://refero.design",
+    "category": "Inspiration",
+    "description": "Searchable library of real product UI — screens, flows and patterns from live apps."
+  },
+  {
+    "title": "Unusual Design",
+    "url": "https://unusual.design",
+    "category": "Inspiration",
+    "description": "Curated gallery of experimental and unconventional websites."
+  },
+  {
+    "title": "Godly",
+    "url": "https://godly.website",
+    "category": "Inspiration",
+    "description": "Hand-picked web design inspiration with video previews of interactions."
+  },
+  {
+    "title": "Minimal Gallery",
+    "url": "https://minimal.gallery",
+    "category": "Inspiration",
+    "description": "Minimal, typography-led websites and templates."
+  },
+  {
+    "title": "Curated",
+    "url": "https://www.curated.design",
+    "category": "Inspiration",
+    "description": "Catalog of web design inspiration, filterable by type and section."
+  },
+  {
+    "title": "The Index",
+    "url": "https://theindex.website",
+    "category": "Inspiration",
+    "description": "Index of well-crafted websites and digital work."
+  },
+  {
+    "title": "Design Everywhere",
+    "url": "https://designeverywhere.co",
+    "category": "Inspiration",
+    "description": "Real-world design captured from everywhere — signage, packaging, print."
+  },
+  {
+    "title": "Detail",
+    "url": "https://detail.design",
+    "category": "Inspiration",
+    "description": "Small UI details and micro-interactions, where craft lives."
+  },
+  {
+    "title": "A1 Gallery",
+    "url": "https://www.a1.gallery",
+    "category": "Inspiration",
+    "description": "Website inspiration for designers and developers."
+  },
+  {
+    "title": "Framer Gallery",
+    "url": "https://www.framer.com/gallery",
+    "category": "Inspiration",
+    "description": "Best sites built with Framer, filterable by style — animations, minimal, bold."
+  },
+  {
+    "title": "Supahero",
+    "url": "https://www.supahero.io",
+    "category": "Inspiration",
+    "description": "Library of website hero sections."
+  },
+  {
+    "title": "Brik — Hero sections",
+    "url": "https://brik.space/collections/hero-srctions",
+    "category": "Inspiration",
+    "description": "Collection of hero section designs."
+  },
+  {
+    "title": "rauno.me / craft",
+    "url": "https://rauno.me/craft",
+    "category": "Inspiration",
+    "description": "Interaction design experiments by Rauno Freiberg."
+  },
+  {
+    "title": "Are.na",
+    "url": "https://www.are.na",
+    "category": "Inspiration",
+    "description": "Visual research and moodboarding — collect and connect references in channels."
+  },
+  {
+    "title": "Stitch",
+    "url": "https://stitch.withgoogle.com",
+    "category": "AI tools",
+    "description": "Google's AI tool for generating UI designs and front-end code from prompts."
+  },
+  {
+    "title": "Aura",
+    "url": "https://www.aura.build",
+    "category": "AI tools",
+    "description": "Generate landing pages with AI."
+  },
+  {
+    "title": "Brik AI",
+    "url": "https://brik.space",
+    "category": "AI tools",
+    "description": "Turn creative direction into living design tools with AI."
+  },
+  {
+    "title": "Figma AI",
+    "url": "https://www.figma.com/ai",
+    "category": "AI tools",
+    "description": "AI features built into Figma — generate, rename layers, search visually."
+  },
+  {
+    "title": "Items.Design",
+    "url": "https://items.design",
+    "category": "AI tools",
+    "description": "AI-generated design assets."
+  },
+  {
+    "title": "Keyvisual",
+    "url": "https://keyvisual.ai",
+    "category": "AI tools",
+    "description": "Creative automation for agencies using Figma design systems."
+  },
+  {
+    "title": "Dora AI",
+    "url": "https://www.dora.run/ai",
+    "category": "AI tools",
+    "description": "Generate animated 3D websites from a prompt."
+  },
+  {
+    "title": "Lafys",
+    "url": "https://lafys.com",
+    "category": "AI tools",
+    "description": "Premium AI prompts for image generation."
+  },
+  {
+    "title": "ToonMe",
+    "url": "https://toonme.com",
+    "category": "AI tools",
+    "description": "Turn photos into cartoon-style portraits."
+  },
+  {
+    "title": "Venturekit",
+    "url": "https://www.venturekit.ai",
+    "category": "AI tools",
+    "description": "AI-generated business plans — handy for quick client context."
+  },
+  {
+    "title": "Lucide",
+    "url": "https://lucide.dev/icons",
+    "category": "Icons",
+    "description": "Open-source, consistent line icon set."
+  },
+  {
+    "title": "Hugeicons",
+    "url": "https://hugeicons.com",
+    "category": "Icons",
+    "description": "40,000+ icons in multiple styles."
+  },
+  {
+    "title": "Iconsax",
+    "url": "https://app.iconsax.io",
+    "category": "Icons",
+    "description": "Large icon library with linear, bold, bulk and twotone variants."
+  },
+  {
+    "title": "Iconly Pro",
+    "url": "https://web.iconly.pro",
+    "category": "Icons",
+    "description": "Premium icon sets in several styles."
+  },
+  {
+    "title": "Mage Icons",
+    "url": "https://mageicons.com",
+    "category": "Icons",
+    "description": "Clean icon set for UI."
+  },
+  {
+    "title": "Iconer",
+    "url": "https://iconer.app",
+    "category": "Icons",
+    "description": "Icon search and library."
+  },
+  {
+    "title": "Noun Project — a.panasovsky",
+    "url": "https://thenounproject.com/a.panasovsky",
+    "category": "Icons",
+    "description": "Icon author profile on The Noun Project."
+  },
+  {
+    "title": "Almarena Foundry",
+    "url": "https://almarenafoundry.com",
+    "category": "Fonts & type",
+    "description": "Independent type foundry — try and buy typefaces."
+  },
+  {
+    "title": "Exat — Hot Type",
+    "url": "https://exat.hottype.co",
+    "category": "Fonts & type",
+    "description": "Exat typeface by Hot Type."
+  },
+  {
+    "title": "Fontspring",
+    "url": "https://www.fontspring.com",
+    "category": "Fonts & type",
+    "description": "Font marketplace with clear, worry-free licensing."
+  },
+  {
+    "title": "Font pairing tools",
+    "url": "https://dribbble.com/resources/font-pairing-tools",
+    "category": "Fonts & type",
+    "description": "Roundup of tools for pairing typefaces."
+  },
+  {
+    "title": "Radix Colors",
+    "url": "https://www.radix-ui.com/colors/custom",
+    "category": "Color",
+    "description": "Generate accessible custom color scales."
+  },
+  {
+    "title": "Scale",
+    "url": "https://hihayk.github.io/scale",
+    "category": "Color",
+    "description": "Color scale generator."
+  },
+  {
+    "title": "UI Colors",
+    "url": "https://uicolors.app/create",
+    "category": "Color",
+    "description": "Generate Tailwind-style color palettes from one hex."
+  },
+  {
+    "title": "Mockuuups Studio",
+    "url": "https://mockuuups.studio",
+    "category": "Mockups",
+    "description": "4,800+ device and scene mockups."
+  },
+  {
+    "title": "Semplice Gestures",
+    "url": "https://www.semplice.com/gestures",
+    "category": "Mockups",
+    "description": "Free hand-gesture mockups for presenting designs."
+  },
+  {
+    "title": "Wannathis",
+    "url": "https://wannathis.one/mockups",
+    "category": "Mockups",
+    "description": "Premium device and print mockups."
+  },
+  {
+    "title": "UI8 — iPhone 16 Pro mockup",
+    "url": "https://ui8.net/sogaso/products/mockup-iphone-16-pro-black-titanium",
+    "category": "Mockups",
+    "description": "Premium iPhone 16 Pro Black Titanium mockup."
+  },
+  {
+    "title": "Artboard Studio",
+    "url": "https://artboard.studio",
+    "category": "Mockups",
+    "description": "Browser-based mockups and visual content creation."
+  },
+  {
+    "title": "Aceternity UI",
+    "url": "https://ui.aceternity.com",
+    "category": "UI components",
+    "description": "Animated React + Tailwind components."
+  },
+  {
+    "title": "Produce UI",
+    "url": "https://produce-ui.com/components.html",
+    "category": "UI components",
+    "description": "UI component collection."
+  },
+  {
+    "title": "PODIE",
+    "url": "https://podie.dev",
+    "category": "UI components",
+    "description": "React UI components."
+  },
+  {
+    "title": "buttons.cool",
+    "url": "https://www.buttons.cool",
+    "category": "UI components",
+    "description": "Library of button designs and interactions with code."
+  },
+  {
+    "title": "Sprrrint",
+    "url": "https://sprrrint.com/explore",
+    "category": "UI components",
+    "description": "Figma components, gradients and UI kits."
+  },
+  {
+    "title": "Osmo",
+    "url": "https://www.osmo.supply",
+    "category": "UI components",
+    "description": "Vault of web animations, components and resources for building memorable sites."
+  },
+  {
+    "title": "Tailwind spacing scale",
+    "url": "https://tailwindcss.com/docs/customizing-spacing",
+    "category": "UI components",
+    "description": "Reference for Tailwind's default spacing scale."
+  },
+  {
+    "title": "Framer Marketplace — Components",
+    "url": "https://www.framer.com/marketplace/components",
+    "category": "Framer",
+    "description": "Official marketplace of Framer components."
+  },
+  {
+    "title": "Overrrides",
+    "url": "https://overrrides.com",
+    "category": "Framer",
+    "description": "Framer component and override library."
+  },
+  {
+    "title": "Flowbase",
+    "url": "https://www.flowbase.co",
+    "category": "Framer",
+    "description": "Components, templates and resources for Framer and Webflow."
+  },
+  {
+    "title": "LaunchNow",
+    "url": "https://launchnow.design",
+    "category": "Framer",
+    "description": "Premium Framer templates."
+  },
+  {
+    "title": "Templifica",
+    "url": "https://templifica.com",
+    "category": "Framer",
+    "description": "Free and premium Framer templates."
+  },
+  {
+    "title": "Daniil Filatov",
+    "url": "https://www.framer.com/@filatovdesign",
+    "category": "Framer",
+    "description": "Framer creator profile — templates and components."
+  },
+  {
+    "title": "Icon slide-in button",
+    "url": "https://www.framer.com/marketplace/components/icon-slide-in-button",
+    "category": "Framer",
+    "description": "Free Framer button component with sliding icon."
+  },
+  {
+    "title": "Cool Shapes",
+    "url": "https://www.framer.com/marketplace/vectors/cool-shapes",
+    "category": "Framer",
+    "description": "Free set of abstract shape vectors."
+  },
+  {
+    "title": "Add an AI chatbot",
+    "url": "https://www.framer.com/marketplace/tutorials/add-an-ai-chatbot",
+    "category": "Framer",
+    "description": "Tutorial: integrating AI chat into a Framer site."
+  },
+  {
+    "title": "Jitter — Text templates",
+    "url": "https://jitter.video/templates/text",
+    "category": "Motion & 3D",
+    "description": "Free text animation templates."
+  },
+  {
+    "title": "Rico Supply",
+    "url": "https://rico.supply",
+    "category": "Motion & 3D",
+    "description": "Jitter animation templates and assets."
+  },
+  {
+    "title": "Spline",
+    "url": "https://spline.design",
+    "category": "Motion & 3D",
+    "description": "3D design in the browser, exportable to the web."
+  },
+  {
+    "title": "Freepik — Dark glass 3D videos",
+    "url": "https://www.freepik.com/search?category=motion_graphics&format=search&query=dark+glass+3d+abstract+background",
+    "category": "Motion & 3D",
+    "description": "Abstract 3D background videos for hero sections."
+  },
+  {
+    "title": "Freepik — Spotlight grunge interior",
+    "url": "https://www.freepik.com/free-photo/spotlight-shining-down-into-grunge-interior_1437174.htm",
+    "category": "Motion & 3D",
+    "description": "Background photo."
+  },
+  {
+    "title": "Freepik — Black cubes gradient",
+    "url": "https://www.freepik.com/free-vector/gradient-black-background-with-cubes_19852469.htm",
+    "category": "Motion & 3D",
+    "description": "Dark background vector."
+  },
+  {
+    "title": "Freepik — Wavy folds",
+    "url": "https://www.freepik.com/free-photo/abstract-geometric-wavy-folds-background_27040112.htm",
+    "category": "Motion & 3D",
+    "description": "Abstract geometric background."
+  },
+  {
+    "title": "Grid systems in UI",
+    "url": "https://designlab.com/blog/grid-systems-history-ux-ui-layout",
+    "category": "Learning",
+    "description": "Why a solid grid matters in UX/UI layout."
+  },
+  {
+    "title": "Matching icons with typefaces",
+    "url": "https://blog.streamlinehq.com/choosing-the-perfect-icons-for-your-typeface",
+    "category": "Learning",
+    "description": "Streamline's guide to pairing icon sets with fonts."
+  },
+  {
+    "title": "Top 20 UI inspiration sites",
+    "url": "https://www.flowbase.co/blog/top-20-ui-inspiration-sites-2023",
+    "category": "Learning",
+    "description": "Flowbase roundup of inspiration sources."
+  },
+  {
+    "title": "Muzli — Weekly Designers Update",
+    "url": "https://medium.muz.li/weekly-designers-update-540-d108aba108bc",
+    "category": "Learning",
+    "description": "Weekly dose of design inspiration and news."
+  },
+  {
+    "title": "Dropbox Brand Guidelines",
+    "url": "https://brand.dropbox.com",
+    "category": "Learning",
+    "description": "Reference-quality public brand guidelines."
+  }
+]

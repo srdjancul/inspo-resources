@@ -1,0 +1,32 @@
+{
+  "Site type": [
+    "Agency",
+    "Product",
+    "Branding",
+    "Corporate",
+    "Shop",
+    "Real estate",
+    "Gallery",
+    "Blog"
+  ],
+  "Style": [
+    "Modern",
+    "Playful",
+    "Grid",
+    "Luxury",
+    "Typography",
+    "Motion"
+  ],
+  "Section": [
+    "Hero",
+    "Footer",
+    "Process",
+    "Metrics",
+    "Roadmap",
+    "Team"
+  ],
+  "Collection": [
+    "Elements",
+    "Archive"
+  ]
+}

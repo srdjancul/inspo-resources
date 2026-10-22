@@ -1,6 +1,8 @@
 # Kako dodati inspiraciju ili resurs
 
-Ne treba ti ništa da instaliraš. Sve se radi na GitHubu u browseru.
+Najbrže je preko dugmeta **„Add a link”** na sajtu: link, tagovi, timska šifra i gotovo.
+
+Ako hoćeš ručno (npr. da ispraviš tag), sve se radi na GitHubu u browseru, bez instaliranja:
 
 ## 1. Sajt za inspiraciju
 

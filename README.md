@@ -7,8 +7,20 @@ Zajednička biblioteka dizajn inspiracije i alata koje koristimo svaki dan.
 
 ## Kako dodaješ stvari
 
-Sve je u folderu [`data/`](data). Najlakše: otvori fajl na GitHubu, klikni olovku (✏️ *Edit*), dodaj red i *Commit changes*.
-Detaljno uputstvo sa primerima: **[CONTRIBUTING.md](CONTRIBUTING.md)**.
+**Najlakše:** dugme **„Add a link”** na sajtu (`/add`). Izabereš sajt, resurs ili moodboard, nalepiš link, klikneš tagove i upišeš timsku šifru. Sajt sam napravi commit na GitHub, a link se pojavi za par minuta.
+
+Ručno ide i direktno preko fajlova u folderu [`data/`](data). Uputstvo je u **[CONTRIBUTING.md](CONTRIBUTING.md)**.
+
+### Podešavanje forme (jednom, na Vercelu)
+
+Vercel → projekat → *Settings* → *Environment Variables*, dodaj:
+
+| Ime | Vrednost |
+| --- | --- |
+| `ADD_PASSWORD` | zajednička šifra koju daš drugarima |
+| `GITHUB_TOKEN` | GitHub *fine-grained* token: github.com/settings/personal-access-tokens → *Generate new token* → *Only select repositories*: `inspo-resources` → *Repository permissions* → **Contents: Read and write**. Ništa drugo. |
+
+Posle toga uradi *Redeploy*. Dok ovo nije podešeno, forma javlja da dodavanje još nije uključeno.
 
 | Fajl | Šta je u njemu |
 | --- | --- |

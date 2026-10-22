@@ -45,6 +45,10 @@ export default function InspoBrowser({ items, groups, boards }) {
   const [tags, setTags] = useState([]);
   const [q, setQ] = useState('');
   const [ready, setReady] = useState(false);
+  const [filtersOpen, setFiltersOpen] = useState(false); // mobile: all filter groups
+  const [moreOpen, setMoreOpen] = useState(false); // desktop: rarely used groups
+  const primary = groups.slice(0, 3);
+  const secondary = groups.slice(3);
   const segRef = useRef(null);
   const [pill, setPill] = useState(null);
 
@@ -65,6 +69,7 @@ export default function InspoBrowser({ items, groups, boards }) {
     setView(s.view);
     setTags(s.tags);
     setQ(s.q);
+    if (secondary.some((g) => g.tags.some((t) => s.tags.includes(t)))) setMoreOpen(true);
     setReady(true);
   }, []);
 
@@ -91,6 +96,19 @@ export default function InspoBrowser({ items, groups, boards }) {
   }, [items, groups, tags, q]);
 
   const toggle = (t) => setTags((cur) => (cur.includes(t) ? cur.filter((x) => x !== t) : [...cur, t]));
+
+  const renderGroup = (g) => (
+    <div className="tag-group" key={g.label}>
+      <span className="tag-group-label">{g.label}</span>
+      <div className="chips">
+        {g.tags.filter((t) => tagCounts[t]).map((t) => (
+          <button key={t} className="chip" aria-pressed={tags.includes(t)} onClick={() => toggle(t)}>
+            {t}<span className="chip-count">{tagCounts[t]}</span>
+          </button>
+        ))}
+      </div>
+    </div>
+  );
 
   return (
     <main className="page">
@@ -129,19 +147,35 @@ export default function InspoBrowser({ items, groups, boards }) {
                   Clear filters
                 </button>
               )}
+              <button
+                className="filters-toggle"
+                aria-expanded={filtersOpen}
+                aria-controls="filter-groups"
+                onClick={() => setFiltersOpen((o) => !o)}
+              >
+                Filters{tags.length > 0 && <span className="count">{tags.length}</span>}
+              </button>
             </div>
-            {groups.map((g) => (
-              <div className="tag-group" key={g.label}>
-                <span className="tag-group-label">{g.label}</span>
-                <div className="chips">
-                  {g.tags.filter((t) => tagCounts[t]).map((t) => (
-                    <button key={t} className="chip" aria-pressed={tags.includes(t)} onClick={() => toggle(t)}>
-                      {t}<span className="chip-count">{tagCounts[t]}</span>
+            <div id="filter-groups" className={`collapse collapse-mobile${filtersOpen ? ' is-open' : ''}`}>
+              <div className="filter-groups">
+                {primary.map(renderGroup)}
+                {secondary.length > 0 && (
+                  <>
+                    <div id="more-filters" className={`collapse${moreOpen ? ' is-open' : ''}`}>
+                      <div className="filter-groups">{secondary.map(renderGroup)}</div>
+                    </div>
+                    <button
+                      className="text-link more-toggle"
+                      aria-expanded={moreOpen}
+                      aria-controls="more-filters"
+                      onClick={() => setMoreOpen((o) => !o)}
+                    >
+                      {moreOpen ? 'Fewer filters' : `More filters: ${secondary.map((g) => g.label).join(', ')}`}
                     </button>
-                  ))}
-                </div>
+                  </>
+                )}
               </div>
-            ))}
+            </div>
           </section>
 
           {filtered.length ? (
@@ -176,7 +210,7 @@ export default function InspoBrowser({ items, groups, boards }) {
             </ul>
           ) : (
             <div className="empty">
-              <p>Nothing matches these filters.</p>
+              <p>{q.trim() ? `Nothing matches “${q.trim()}”.` : 'Nothing matches these filters.'}</p>
               <button className="text-link" onClick={() => { setTags([]); setQ(''); }}>Clear filters</button>
             </div>
           )}

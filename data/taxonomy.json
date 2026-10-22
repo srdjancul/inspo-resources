@@ -1,7 +1,55 @@
 {
-  "Site type": ["Agency", "Portfolio", "Product", "AI", "Web3", "Fintech", "Health", "Corporate", "Branding", "Shop", "Real estate", "Event", "Gallery", "Blog"],
-  "Theme": ["Dark", "Light"],
-  "Style": ["Minimal", "Bold", "Modern", "Playful", "Grid", "Luxury", "Typography", "3D", "Illustration", "Colorful", "Photography", "Motion"],
-  "Section": ["Hero", "Footer", "Process", "Metrics", "Roadmap", "Team"],
-  "Collection": ["Elements", "Archive"]
+  "Site type": [
+    "Agency",
+    "Portfolio",
+    "Product",
+    "AI",
+    "Web3",
+    "Fintech",
+    "Health",
+    "Corporate",
+    "Branding",
+    "Shop",
+    "Real estate",
+    "Event",
+    "Gallery",
+    "Blog",
+    "App UI",
+    "Gaming",
+    "Cybersecurity",
+    "Fashion",
+    "Architecture",
+    "Education",
+    "Culture"
+  ],
+  "Theme": [
+    "Dark",
+    "Light"
+  ],
+  "Style": [
+    "Minimal",
+    "Bold",
+    "Modern",
+    "Playful",
+    "Grid",
+    "Luxury",
+    "Typography",
+    "3D",
+    "Illustration",
+    "Colorful",
+    "Photography",
+    "Motion"
+  ],
+  "Section": [
+    "Hero",
+    "Footer",
+    "Process",
+    "Metrics",
+    "Roadmap",
+    "Team"
+  ],
+  "Collection": [
+    "Elements",
+    "Archive"
+  ]
 }

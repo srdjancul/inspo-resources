@@ -71,6 +71,20 @@ const HIDE_OVERLAYS = `
   [id*="consent" i]:not(html,body), [class*="consent-banner" i], [aria-label*="cookie" i] { display: none !important; }
 `;
 
+// Click the consent banner's accept button when there is one; CSS hiding misses many custom banners.
+const CONSENT = /^(accept|accept all|accept all cookies|accept cookies|allow all|allow all cookies|allow cookies|agree|i agree|got it|ok|okay|i understand|accept & close|alle akzeptieren|tout accepter|aceptar todo|accetta tutti)$/i;
+async function acceptCookies(page) {
+  await page
+    .evaluate((source) => {
+      const re = new RegExp(source, 'i');
+      const el = [...document.querySelectorAll('button, a, [role="button"]')].find(
+        (e) => re.test(e.textContent.trim()) && e.getClientRects().length,
+      );
+      el?.click();
+    }, CONSENT.source)
+    .catch(() => {});
+}
+
 async function save(buffer, file) {
   await sharp(buffer).resize(WIDTH, HEIGHT, { fit: 'cover', position: 'top' }).webp({ quality: 72 }).toFile(file);
 }
@@ -101,6 +115,7 @@ async function screenshot(page, url) {
   } catch (e) {
     if (!/Timeout/.test(e.message)) throw e; // slow sites: shoot whatever rendered
   }
+  await acceptCookies(page);
   await page.addStyleTag({ content: HIDE_OVERLAYS }).catch(() => {});
   await page.waitForTimeout(WAIT);
   let shot = await page.screenshot({ type: 'jpeg', quality: 90 });

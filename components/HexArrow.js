@@ -6,11 +6,11 @@ export default function HexArrow({ size = 48, direction = 'up-right' }) {
       <svg viewBox="0 0 48 48" width={size} height={size}>
         <path
           className="hex-shape"
-          d="M16.2 4.5h15.6a4 4 0 0 1 3.46 2l7.8 13.5a4 4 0 0 1 0 4l-7.8 13.5a4 4 0 0 1-3.46 2H16.2a4 4 0 0 1-3.46-2L4.94 24a4 4 0 0 1 0-4l7.8-13.5a4 4 0 0 1 3.46-2z"
+          d="M16.2 6.5h15.6a4 4 0 0 1 3.46 2l7.8 13.5a4 4 0 0 1 0 4l-7.8 13.5a4 4 0 0 1-3.46 2H16.2a4 4 0 0 1-3.46-2L4.94 26a4 4 0 0 1 0-4l7.8-13.5a4 4 0 0 1 3.46-2z"
         />
         <g transform={`rotate(${rotate} 24 24)`}>
-          {/* shifted so the arrow's visual weight (not its bounding box) sits in the middle */}
-          <path className="hex-arrow" d="M19 29l8-8M20.5 21H27v6.5" />
+          {/* centred on (24,24), nudged half a unit down-left to balance the arrowhead */}
+          <path className="hex-arrow" d="M19.5 28.5l8-8M21 20.5h6.5V27" />
         </g>
       </svg>
     </span>

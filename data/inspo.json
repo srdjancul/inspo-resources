@@ -2,28 +2,44 @@
   {
     "title": "Medical Landing Page by Levi Wilson for QClay",
     "url": "https://dribbble.com/shots/24830146-Medical-Landing-Page",
-    "tags": []
+    "tags": [
+      "Health"
+    ]
   },
   {
     "title": "Design Agency Website by Awesomic",
     "url": "https://dribbble.com/shots/24335100-Design-Agency-Website",
-    "tags": []
+    "tags": [
+      "Agency",
+      "Dark",
+      "Minimal"
+    ]
   },
   {
     "title": "Rafli Syahfallah on X: \"This is my full preview design for the Email M",
     "url": "https://x.com/raflisyahfallah/status/2075215777482129775/photo/1",
-    "tags": []
+    "tags": [
+      "Product",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Other Matter",
     "url": "https://other-matter-ten.vercel.app?view=grid&specimen=aerogel-skin",
-    "tags": []
+    "tags": [
+      "Light",
+      "Minimal",
+      "Typography"
+    ]
   },
   {
     "title": "Pin on Ae动效",
     "url": "https://www.pinterest.com/pin/15270086237742785",
     "tags": [
-      "Elements"
+      "Elements",
+      "Light",
+      "Colorful"
     ]
   },
   {
@@ -37,42 +53,55 @@
     "title": "Glassy Button",
     "url": "https://www.pinterest.com/pin/2885187257206121",
     "tags": [
-      "Elements"
+      "Elements",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Money in Check",
     "url": "https://moneyincheck.org",
     "tags": [
-      "Typography"
+      "Typography",
+      "Light",
+      "Bold"
     ]
   },
   {
     "title": "Temporal Instr",
     "url": "https://temporalinstruments.com",
     "tags": [
-      "Typography"
+      "Typography",
+      "Dark",
+      "Minimal"
     ]
   },
   {
     "title": "Haptic",
     "url": "https://www.haptic.studio",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Photography"
     ]
   },
   {
     "title": "Exterior",
     "url": "https://13crestwood.com/exterior",
     "tags": [
-      "Real estate"
+      "Real estate",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
     "title": "website animation for architecture bureau",
     "url": "https://www.pinterest.com/pin/1088463803722466948",
     "tags": [
-      "Motion"
+      "Motion",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -80,7 +109,9 @@
     "url": "https://www.pinterest.com/pin/737183032790769691",
     "tags": [
       "Motion",
-      "Agency"
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -88,49 +119,76 @@
     "url": "https://www.pinterest.com/pin/1147855023766843456",
     "tags": [
       "Motion",
-      "Agency"
+      "Agency",
+      "Light",
+      "Photography"
     ]
   },
   {
     "title": "Routable",
     "url": "https://www.routable.com",
     "tags": [
-      "Product"
+      "Product",
+      "Fintech",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Fixa Planner",
     "url": "https://fixaplan.com",
     "tags": [
-      "Product"
+      "Product",
+      "Dark",
+      "Minimal",
+      "Typography"
     ]
   },
   {
     "title": "Due",
     "url": "https://www.opendue.com",
-    "tags": []
+    "tags": [
+      "Fintech",
+      "Product",
+      "Light",
+      "Bold",
+      "Typography"
+    ]
   },
   {
     "title": "[Nathan Martell]",
     "url": "https://nathanmartell.com",
-    "tags": []
+    "tags": [
+      "Portfolio",
+      "Light",
+      "Typography",
+      "Grid"
+    ]
   },
   {
     "title": "Traineeships",
     "url": "https://next.youngcapital.nl",
-    "tags": []
+    "tags": [
+      "Dark",
+      "Bold",
+      "Typography"
+    ]
   },
   {
     "title": "Frame.io",
     "url": "https://frame.io",
     "tags": [
+      "Product",
+      "Dark",
       "Archive"
     ]
   },
   {
     "title": "Opal Tadpole",
     "url": "https://opalcamera.com/opal-tadpole",
-    "tags": []
+    "tags": [
+      "Product"
+    ]
   },
   {
     "title": "index.app",
@@ -145,12 +203,20 @@
   {
     "title": "clearbit.com",
     "url": "https://clearbit.com/customers",
-    "tags": []
+    "tags": [
+      "Product",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Tedy",
     "url": "https://www.tedy.app",
-    "tags": []
+    "tags": [
+      "Product",
+      "Light",
+      "Photography"
+    ]
   },
   {
     "title": "Konpo",
@@ -160,37 +226,68 @@
   {
     "title": "Kelvin Zero",
     "url": "https://kzero.com",
-    "tags": []
+    "tags": [
+      "Product",
+      "Dark",
+      "Minimal"
+    ]
   },
   {
     "title": "Teamway",
     "url": "https://teamway.io",
-    "tags": []
+    "tags": [
+      "Portfolio",
+      "Light"
+    ]
   },
   {
     "title": "Zerve AI",
     "url": "https://www.zerve.ai",
-    "tags": []
+    "tags": [
+      "AI",
+      "Product",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Fruitful",
     "url": "https://www.fruitful.com",
-    "tags": []
+    "tags": [
+      "Fintech",
+      "Product",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Customer Insights Hub",
     "url": "https://dovetail.com",
-    "tags": []
+    "tags": [
+      "Product",
+      "Dark",
+      "Typography",
+      "Bold"
+    ]
   },
   {
     "title": "mercury.com",
     "url": "https://mercury.com",
-    "tags": []
+    "tags": [
+      "Fintech",
+      "Light",
+      "Photography"
+    ]
   },
   {
     "title": "Stacker",
     "url": "https://stackerhq.com",
-    "tags": []
+    "tags": [
+      "AI",
+      "Product",
+      "Light",
+      "Colorful"
+    ]
   },
   {
     "title": "Travel Next Level",
@@ -200,42 +297,74 @@
   {
     "title": "HEAVN One",
     "url": "https://heavn-one.webflow.io",
-    "tags": []
+    "tags": [
+      "Product",
+      "Dark",
+      "Photography"
+    ]
   },
   {
     "title": "xapobank.com",
     "url": "https://www.xapobank.com/en",
-    "tags": []
+    "tags": [
+      "Fintech",
+      "Web3",
+      "Dark",
+      "Photography"
+    ]
   },
   {
     "title": "Superpower",
     "url": "https://superpower.com",
-    "tags": []
+    "tags": [
+      "Health"
+    ]
   },
   {
     "title": "LAS Art Foundation",
     "url": "https://www.las-art.foundation",
-    "tags": []
+    "tags": [
+      "Dark",
+      "Photography"
+    ]
   },
   {
     "title": "News",
     "url": "https://runwayml.com/news",
-    "tags": []
+    "tags": [
+      "AI",
+      "Blog",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Startech Awards",
     "url": "https://awards.startech.vc/en",
-    "tags": []
+    "tags": [
+      "Event",
+      "Light",
+      "3D"
+    ]
   },
   {
     "title": "robinhood.com",
     "url": "https://robinhood.com/us/en",
-    "tags": []
+    "tags": [
+      "Fintech",
+      "Dark",
+      "Minimal"
+    ]
   },
   {
     "title": "Crymbo Oracle",
     "url": "https://www.crymbo.com",
-    "tags": []
+    "tags": [
+      "Web3",
+      "Fintech",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "retronovaworld.webflow.io",
@@ -245,17 +374,29 @@
   {
     "title": "Aker",
     "url": "https://www.akercompanies.com",
-    "tags": []
+    "tags": [
+      "Real estate",
+      "Dark",
+      "Photography"
+    ]
   },
   {
     "title": "ChainGPT Labs",
     "url": "https://labs.chaingpt.org",
-    "tags": []
+    "tags": [
+      "Web3",
+      "AI",
+      "Light",
+      "Typography",
+      "Grid"
+    ]
   },
   {
     "title": "Otto",
     "url": "https://www.ottografie.nl/celebrities",
-    "tags": []
+    "tags": [
+      "Portfolio"
+    ]
   },
   {
     "title": "Lacoste",
@@ -265,37 +406,67 @@
   {
     "title": "irys.xyz",
     "url": "https://irys.xyz",
-    "tags": []
+    "tags": [
+      "Web3",
+      "Dark",
+      "Illustration"
+    ]
   },
   {
     "title": "WarholArts ©",
     "url": "https://warhol-arts.webflow.io",
-    "tags": []
+    "tags": [
+      "Event",
+      "Dark",
+      "Typography",
+      "Bold"
+    ]
   },
   {
     "title": "LORD",
     "url": "https://www.callmelord.com",
-    "tags": []
+    "tags": [
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Hartmann Capital",
     "url": "https://www.hartmanncapital.com",
-    "tags": []
+    "tags": [
+      "Corporate",
+      "Dark",
+      "3D"
+    ]
   },
   {
     "title": "SCRIB3",
     "url": "https://scrib3.co",
-    "tags": []
+    "tags": [
+      "Agency",
+      "Web3",
+      "Dark",
+      "Typography",
+      "Bold"
+    ]
   },
   {
     "title": "Byooooob",
     "url": "https://www.byooooob.com",
-    "tags": []
+    "tags": [
+      "Light",
+      "Playful",
+      "Bold"
+    ]
   },
   {
     "title": "icebergdoc.org",
     "url": "https://www.icebergdoc.org",
-    "tags": []
+    "tags": [
+      "Dark",
+      "Typography",
+      "Bold"
+    ]
   },
   {
     "title": "OddCommon",
@@ -305,42 +476,75 @@
   {
     "title": "Yellow Fellow",
     "url": "https://yellowfellow.tv",
-    "tags": []
+    "tags": [
+      "Agency",
+      "Light",
+      "Playful",
+      "Typography"
+    ]
   },
   {
     "title": "Henri Heymans 2025 Portfolio",
     "url": "https://www.henriheymans.com",
-    "tags": []
+    "tags": [
+      "Portfolio",
+      "Dark",
+      "3D"
+    ]
   },
   {
     "title": "Stas Bondar",
     "url": "https://www.stabondar.com",
-    "tags": []
+    "tags": [
+      "Portfolio",
+      "Dark",
+      "Bold"
+    ]
   },
   {
     "title": "Bulletproof",
     "url": "https://www.wearebulletproof.com",
-    "tags": []
+    "tags": [
+      "Dark",
+      "Colorful",
+      "Bold"
+    ]
   },
   {
     "title": "shaka",
     "url": "https://www.shaka.tel",
-    "tags": []
+    "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
+      "3D"
+    ]
   },
   {
     "title": "ChainGPT",
     "url": "https://www.chaingpt.org",
-    "tags": []
+    "tags": [
+      "Web3",
+      "AI",
+      "Dark",
+      "3D"
+    ]
   },
   {
     "title": "NEO Gamma",
     "url": "https://www.1x.tech/neo",
-    "tags": []
+    "tags": [
+      "Product",
+      "Light",
+      "Photography"
+    ]
   },
   {
     "title": "SoScale",
     "url": "https://www.soscalemedia.se",
-    "tags": []
+    "tags": [
+      "Agency"
+    ]
   },
   {
     "title": "Umbrel",
@@ -355,17 +559,27 @@
   {
     "title": "GameFi.org",
     "url": "https://gamefi.org",
-    "tags": []
+    "tags": [
+      "Web3",
+      "Light",
+      "Typography"
+    ]
   },
   {
     "title": "leandra-isler.ch",
     "url": "https://www.leandra-isler.ch/en",
-    "tags": []
+    "tags": [
+      "Portfolio"
+    ]
   },
   {
     "title": "LMI presents Elimar",
     "url": "https://elimar.lmigroupintl.com",
-    "tags": []
+    "tags": [
+      "Light",
+      "Typography",
+      "Minimal"
+    ]
   },
   {
     "title": "Into the Amazon",
@@ -380,7 +594,10 @@
   {
     "title": "basement.studio",
     "url": "https://basement.studio",
-    "tags": []
+    "tags": [
+      "Dark",
+      "3D"
+    ]
   },
   {
     "title": "Navigate",
@@ -390,12 +607,22 @@
   {
     "title": "Euveka",
     "url": "https://www.euveka.com",
-    "tags": []
+    "tags": [
+      "Product",
+      "Dark",
+      "Minimal"
+    ]
   },
   {
     "title": "ForAI",
     "url": "https://forai.design",
-    "tags": []
+    "tags": [
+      "Agency",
+      "AI",
+      "Light",
+      "Minimal",
+      "3D"
+    ]
   },
   {
     "title": "TrueKind",
@@ -405,7 +632,11 @@
   {
     "title": "Aurel's Grand Theater",
     "url": "https://aurelienvigne.com",
-    "tags": []
+    "tags": [
+      "Portfolio",
+      "Dark",
+      "Typography"
+    ]
   },
   {
     "title": "Paintboxed",
@@ -432,12 +663,18 @@
   {
     "title": "BlueYard Capital",
     "url": "https://blueyard.com",
-    "tags": []
+    "tags": [
+      "Corporate"
+    ]
   },
   {
     "title": "The New Quechua Collection",
     "url": "https://quechua-lookbook.com/ss25",
-    "tags": []
+    "tags": [
+      "Branding",
+      "Light",
+      "Playful"
+    ]
   },
   {
     "title": "Inkwell",
@@ -448,7 +685,9 @@
     "title": "DICH™ Fashion",
     "url": "https://dich-fashion.webflow.io",
     "tags": [
-      "Playful"
+      "Playful",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -459,60 +698,90 @@
   {
     "title": "Hugo Baron",
     "url": "https://nuageboi.fr",
-    "tags": []
+    "tags": [
+      "Portfolio"
+    ]
   },
   {
     "title": "Billionaire Bunker Club",
     "url": "https://buythebunker.com",
-    "tags": []
+    "tags": [
+      "Real estate"
+    ]
   },
   {
     "title": "Our Roots",
     "url": "https://history.jailhouselawyers.org",
-    "tags": []
+    "tags": [
+      "Light",
+      "Typography",
+      "Grid"
+    ]
   },
   {
     "title": "Neverhack",
     "url": "https://neverhack.com/en",
-    "tags": []
+    "tags": [
+      "AI",
+      "Product",
+      "Light",
+      "Minimal"
+    ]
   },
   {
     "title": "Meme creator",
     "url": "https://www.gm-meme.com",
-    "tags": []
+    "tags": [
+      "Product"
+    ]
   },
   {
     "title": "Montfort Group",
     "url": "https://mont-fort.com",
-    "tags": []
+    "tags": [
+      "Corporate"
+    ]
   },
   {
     "title": "Quantum Body",
     "url": "https://www.quantumbody.io",
-    "tags": []
+    "tags": [
+      "Health"
+    ]
   },
   {
     "title": "DON PROD",
     "url": "https://www.donprod.uk",
-    "tags": []
+    "tags": [
+      "Agency",
+      "Dark",
+      "Typography"
+    ]
   },
   {
     "title": "Experience ADHD",
     "url": "https://www.adhdexperience.com",
-    "tags": []
+    "tags": [
+      "Health"
+    ]
   },
   {
     "title": "Deduxer",
     "url": "https://www.deduxer.studio",
     "tags": [
-      "Agency"
+      "Agency",
+      "AI",
+      "Light",
+      "3D"
     ]
   },
   {
     "title": "Cutthecode",
     "url": "https://www.cutthecode.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Typography"
     ]
   },
   {
@@ -526,28 +795,38 @@
     "title": "awsmd.com",
     "url": "https://www.awsmd.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "3D"
     ]
   },
   {
     "title": "eng.dipsy.team",
     "url": "https://eng.dipsy.team",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Typography",
+      "Bold"
     ]
   },
   {
     "title": "Huge",
     "url": "https://www.hugeinc.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "3D",
+      "Bold"
     ]
   },
   {
     "title": "Fiddle.Digital Design Agency",
     "url": "https://fiddle.digital",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Grid"
     ]
   },
   {
@@ -561,28 +840,38 @@
     "title": "QClay",
     "url": "https://qclay.design",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "CRFTD",
     "url": "https://www.crftd.nl",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "3D",
+      "Typography"
     ]
   },
   {
     "title": "Marcelo Design X",
     "url": "https://mdx.so",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "portalone.studio",
     "url": "https://www.portalone.studio",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Grid",
+      "Typography"
     ]
   },
   {
@@ -596,35 +885,48 @@
     "title": "GSAP Showcase",
     "url": "https://gsap.com/showcase",
     "tags": [
-      "Agency"
+      "Agency",
+      "Product"
     ]
   },
   {
     "title": "Letters From Venus",
     "url": "https://www.lettersfromvenus.com",
     "tags": [
-      "Blog"
+      "Blog",
+      "Light",
+      "Photography"
     ]
   },
   {
     "title": "Journal",
     "url": "https://www.polaroid.com/blog/journal",
     "tags": [
-      "Blog"
+      "Blog",
+      "Light",
+      "Grid",
+      "Photography"
     ]
   },
   {
     "title": "Cobo©",
     "url": "https://www.cobosrl.co/news",
     "tags": [
-      "Blog"
+      "Blog",
+      "Light",
+      "Typography",
+      "Grid"
     ]
   },
   {
     "title": "STUDIO HERRSTRÖM",
     "url": "https://www.studioherrstrom.com",
     "tags": [
-      "Blog"
+      "Blog",
+      "Agency",
+      "Dark",
+      "Typography",
+      "Grid"
     ]
   },
   {
@@ -645,21 +947,26 @@
     "title": "СropTab",
     "url": "https://www.farmminerals.com/promo",
     "tags": [
-      "Product"
+      "Product",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Mesh Optical",
     "url": "https://www.meshoptical.com",
     "tags": [
-      "Product"
+      "Product",
+      "Light",
+      "Typography"
     ]
   },
   {
     "title": "Cleo makes money better.",
     "url": "https://web.meetcleo.com",
     "tags": [
-      "Product"
+      "Product",
+      "Fintech"
     ]
   },
   {
@@ -701,42 +1008,55 @@
     "title": "Selected Work",
     "url": "https://www.ciroguatieri.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio"
     ]
   },
   {
     "title": "EVM®DSGN",
     "url": "https://www.evmdsgn.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Typography"
     ]
   },
   {
     "title": "Minorstep",
     "url": "https://minorstep.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Photography",
+      "Luxury"
     ]
   },
   {
     "title": "Nivaro",
     "url": "https://nivora.framer.website",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Bold",
+      "Typography"
     ]
   },
   {
     "title": "New Genre",
     "url": "https://newgenre.studio",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Typography"
     ]
   },
   {
     "title": "heyefi",
     "url": "https://www.heyefi.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Grid"
     ]
   },
   {
@@ -750,14 +1070,19 @@
     "title": "Brand Design and Strategy",
     "url": "https://loloagency.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Branding",
+      "Light",
+      "Photography",
+      "Playful"
     ]
   },
   {
     "title": "Artem Shcherban",
     "url": "https://artemshcherban.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio"
     ]
   },
   {
@@ -771,63 +1096,89 @@
     "title": "R—K Design & Code",
     "url": "https://www.raviklaassens.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio",
+      "Light",
+      "Typography",
+      "Bold"
     ]
   },
   {
     "title": "KOOKIE",
     "url": "https://www.kookie-kollective.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Typography",
+      "Photography"
     ]
   },
   {
     "title": "Jasmine Gunarto",
     "url": "https://jasminegunarto.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio",
+      "Light",
+      "Typography",
+      "Bold"
     ]
   },
   {
     "title": "Upperquad",
     "url": "https://upperquad.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "nudot.com.tw",
     "url": "https://nudot.com.tw",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Typography",
+      "Grid"
     ]
   },
   {
     "title": "Kō",
     "url": "https://kobykooba.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Typography",
+      "Bold"
     ]
   },
   {
     "title": "2xA",
     "url": "https://2xa.studio/about",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "Grid",
+      "Typography"
     ]
   },
   {
     "title": "Viacheslav Novoseltsev",
     "url": "https://vshslv.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio"
     ]
   },
   {
     "title": "Oimachi",
     "url": "https://www.oimachi.co",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "Grid",
+      "Minimal"
     ]
   },
   {
@@ -841,21 +1192,31 @@
     "title": "Orgnzm Studio",
     "url": "https://orgnzm.studio",
     "tags": [
-      "Agency"
+      "Agency",
+      "Light",
+      "3D",
+      "Typography"
     ]
   },
   {
     "title": "thestart.com.au",
     "url": "https://thestart.com.au",
     "tags": [
-      "Agency"
+      "Agency",
+      "Dark",
+      "3D",
+      "Playful"
     ]
   },
   {
     "title": "bleibtgleich",
     "url": "https://bleibtgleich.dev",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
@@ -870,14 +1231,16 @@
     "title": "Léo Parpeix — Art director & interactive designer",
     "url": "https://www.leoparpeix.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio"
     ]
   },
   {
     "title": "Daiki Fujita",
     "url": "https://daikifujita.com",
     "tags": [
-      "Agency"
+      "Agency",
+      "Portfolio"
     ]
   },
   {
@@ -905,7 +1268,8 @@
     "title": "Vibrant Wellness",
     "url": "https://vibrant.noomoagency.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Health"
     ]
   },
   {
@@ -926,7 +1290,10 @@
     "title": "Google Cloud x Team USA",
     "url": "https://sports.withgoogle.com/teamusa",
     "tags": [
-      "Branding"
+      "Branding",
+      "AI",
+      "Light",
+      "Typography"
     ]
   },
   {
@@ -940,7 +1307,9 @@
     "title": "Darknode",
     "url": "https://www.darknode.army/en",
     "tags": [
-      "Branding"
+      "Branding",
+      "Dark",
+      "Bold"
     ]
   },
   {
@@ -954,7 +1323,11 @@
     "title": "Hear",
     "url": "https://www.hear.ai",
     "tags": [
-      "Branding"
+      "Branding",
+      "AI",
+      "Product",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -969,7 +1342,8 @@
     "title": "ORYZO AI",
     "url": "https://oryzo.ai",
     "tags": [
-      "Branding"
+      "Branding",
+      "AI"
     ]
   },
   {
@@ -990,7 +1364,10 @@
     "title": "GT Mechanik",
     "url": "https://gt-mechanik.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Typography",
+      "Colorful"
     ]
   },
   {
@@ -1004,14 +1381,18 @@
     "title": "Video Production Brisbane",
     "url": "https://iper.com.au",
     "tags": [
-      "Branding"
+      "Branding",
+      "Agency",
+      "Light",
+      "Photography"
     ]
   },
   {
     "title": "Gianluca Patti",
     "url": "https://glcpatti.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Portfolio"
     ]
   },
   {
@@ -1025,7 +1406,10 @@
     "title": "MXMS I Creative sound studio",
     "url": "https://mxms.studio",
     "tags": [
-      "Branding"
+      "Branding",
+      "Agency",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -1046,7 +1430,9 @@
     "title": "steven.com",
     "url": "https://steven.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -1067,28 +1453,44 @@
     "title": "Perplexity x CR7",
     "url": "https://www.perplexity.ai/ronaldo",
     "tags": [
-      "Branding"
+      "Branding",
+      "AI",
+      "Product",
+      "Dark",
+      "Photography"
     ]
   },
   {
     "title": "Nudge",
     "url": "https://nudge-folio.framer.website",
     "tags": [
-      "Branding"
+      "Branding",
+      "Portfolio",
+      "Light",
+      "Playful",
+      "Typography"
     ]
   },
   {
     "title": "Slush",
     "url": "https://slush.app",
     "tags": [
-      "Branding"
+      "Branding",
+      "Web3",
+      "Product",
+      "Light",
+      "3D",
+      "Bold"
     ]
   },
   {
     "title": "daily rituals",
     "url": "https://remote-rituals.framer.website",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Illustration",
+      "Colorful"
     ]
   },
   {
@@ -1109,7 +1511,10 @@
     "title": "Lightdash x DesignMe",
     "url": "https://www.designme.agency/projects/lightdash",
     "tags": [
-      "Branding"
+      "Branding",
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -1123,7 +1528,11 @@
     "title": "Men's Health Week 2026",
     "url": "https://www.menshealthweek.com.au",
     "tags": [
-      "Branding"
+      "Branding",
+      "Health",
+      "Event",
+      "Dark",
+      "Typography"
     ]
   },
   {
@@ -1137,7 +1546,10 @@
     "title": "Rocket Brand Guidelines",
     "url": "https://brand.rocket.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Bold",
+      "Photography"
     ]
   },
   {
@@ -1172,21 +1584,31 @@
     "title": "Alkor®",
     "url": "https://byalkor.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
     "title": "ERA Residence",
     "url": "https://www.era-residence.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Real estate",
+      "Dark",
+      "Luxury",
+      "Typography"
     ]
   },
   {
     "title": "Quintin Lodge",
     "url": "https://www.quintinlodge.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Light",
+      "Typography",
+      "Bold"
     ]
   },
   {
@@ -1200,7 +1622,10 @@
     "title": "Mr.BLACK",
     "url": "https://mrblack-case.dolganev.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Dark",
+      "Bold",
+      "Typography"
     ]
   },
   {
@@ -1221,14 +1646,18 @@
     "title": "Liubomyr Ulytskyi",
     "url": "https://www.unbelievablycrap.com",
     "tags": [
-      "Branding"
+      "Branding",
+      "Portfolio",
+      "Dark",
+      "3D"
     ]
   },
   {
     "title": "Design Bomb Festival",
     "url": "https://www.designbomb.it",
     "tags": [
-      "Branding"
+      "Branding",
+      "Event"
     ]
   },
   {
@@ -1242,14 +1671,21 @@
     "title": "Design for AI Startups",
     "url": "https://ai.glow.team",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Agency",
+      "AI",
+      "Dark",
+      "Minimal"
     ]
   },
   {
     "title": "Terminal Yard Operating System",
     "url": "https://terminal-industries.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Product",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -1263,7 +1699,11 @@
     "title": "Factory",
     "url": "https://factory.ai",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "AI",
+      "Product",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -1277,14 +1717,19 @@
     "title": "PAVE",
     "url": "https://pave.ai",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Product",
+      "Dark",
+      "Photography"
     ]
   },
   {
     "title": "Neon Serverless Postgres",
     "url": "https://neon.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Product",
+      "Dark"
     ]
   },
   {
@@ -1299,112 +1744,164 @@
     "url": "https://atlascard.com",
     "tags": [
       "Corporate",
-      "Modern"
+      "Modern",
+      "Fintech",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
     "title": "Supernova AI (formerly Canvas)",
     "url": "https://supernova.ai",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "AI",
+      "Product",
+      "Dark"
     ]
   },
   {
     "title": "AngelList",
     "url": "https://www.angellist.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Fintech",
+      "Dark",
+      "Minimal"
     ]
   },
   {
     "title": "Integrated Biosciences",
     "url": "https://integratedbiosciences.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Health",
+      "Dark",
+      "Typography"
     ]
   },
   {
     "title": "ramp.com",
     "url": "https://ramp.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Fintech",
+      "Product",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "jords.co.uk",
     "url": "https://www.jords.co.uk",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Flank",
     "url": "https://www.flank.ai",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "AI",
+      "Product",
+      "Dark",
+      "Photography"
     ]
   },
   {
     "title": "VoidZero",
     "url": "https://voidzero.dev",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Product",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "ZeroDrift",
     "url": "https://www.zerodrift.ai",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "AI",
+      "Product",
+      "Dark"
     ]
   },
   {
     "title": "Seed",
     "url": "https://seed.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Health",
+      "Shop",
+      "Light",
+      "Photography"
     ]
   },
   {
     "title": "Wrangle",
     "url": "https://wrangle.ai",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "AI",
+      "Product",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Tenor",
     "url": "https://www.tenor.finance",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "Fintech",
+      "Web3",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "AI-native cybersecurity platform",
     "url": "https://www.armadin.com",
     "tags": [
-      "Corporate"
+      "Corporate",
+      "AI",
+      "Product"
     ]
   },
   {
     "title": "Fictional Spaces",
     "url": "https://www.fictional-spaces.com",
     "tags": [
-      "Grid"
+      "Grid",
+      "Dark",
+      "Minimal"
     ]
   },
   {
     "title": "Riddhiman Paul",
     "url": "https://riddhimanpaul.framer.website",
     "tags": [
-      "Grid"
+      "Grid",
+      "Portfolio",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
     "title": "visuelle",
     "url": "https://visuelle.co.uk",
     "tags": [
-      "Grid"
+      "Grid",
+      "Blog",
+      "Dark"
     ]
   },
   {
@@ -1418,35 +1915,49 @@
     "title": "We do Social Space",
     "url": "https://www.clouarchitects.com",
     "tags": [
-      "Grid"
+      "Grid",
+      "Agency",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
     "title": "Sutéra",
     "url": "https://www.sutera.ch",
     "tags": [
-      "Grid"
+      "Grid",
+      "Portfolio",
+      "Light",
+      "3D"
     ]
   },
   {
     "title": "FRANKY'S",
     "url": "https://www.frankys-hats.com",
     "tags": [
-      "Grid"
+      "Grid",
+      "Shop",
+      "Light",
+      "Bold"
     ]
   },
   {
     "title": "Joy for no reason",
     "url": "https://flowers-sim.ru/category-4",
     "tags": [
-      "Grid"
+      "Grid",
+      "Shop"
     ]
   },
   {
     "title": "AI in Design Report 2026",
     "url": "https://stateofaidesign.com",
     "tags": [
-      "Grid"
+      "Grid",
+      "AI",
+      "Light",
+      "Colorful"
     ]
   },
   {
@@ -1474,56 +1985,79 @@
     "title": "mosbyfiles.com",
     "url": "https://www.mosbyfiles.com",
     "tags": [
-      "Grid"
+      "Grid",
+      "Blog",
+      "Dark",
+      "Typography",
+      "Colorful"
     ]
   },
   {
     "title": "Heron AI",
     "url": "https://heronaiapp.com",
     "tags": [
-      "Grid"
+      "Grid",
+      "AI",
+      "Product"
     ]
   },
   {
     "title": "Avax.network",
     "url": "https://www.avax.network",
     "tags": [
-      "Playful"
+      "Playful",
+      "Web3",
+      "Dark",
+      "Bold",
+      "Typography"
     ]
   },
   {
     "title": "1:09 Portfolio",
     "url": "https://109ichiki.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Portfolio"
     ]
   },
   {
     "title": "maximatherapy.com",
     "url": "https://maximatherapy.com/programs/0-to-3",
     "tags": [
-      "Playful"
+      "Playful",
+      "Health"
     ]
   },
   {
     "title": "Epiminds",
     "url": "https://epiminds.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "AI",
+      "Product",
+      "Dark",
+      "3D"
     ]
   },
   {
     "title": "Working Stiff Films",
     "url": "https://stiff.madebybuzzworthy.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Agency",
+      "Dark",
+      "Bold",
+      "Typography"
     ]
   },
   {
     "title": "MoMoney",
     "url": "https://www.museumofmoney.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Light",
+      "Bold",
+      "Colorful"
     ]
   },
   {
@@ -1537,14 +2071,21 @@
     "title": "lapz.io",
     "url": "https://www.lapz.io",
     "tags": [
-      "Playful"
+      "Playful",
+      "Product",
+      "Dark",
+      "3D"
     ]
   },
   {
     "title": "Stryds",
     "url": "https://www.stryds.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Health",
+      "Product",
+      "Dark",
+      "Colorful"
     ]
   },
   {
@@ -1558,14 +2099,20 @@
     "title": "LML Design Studio",
     "url": "https://lml.cc/en",
     "tags": [
-      "Playful"
+      "Playful",
+      "Agency",
+      "Dark",
+      "Minimal",
+      "Typography"
     ]
   },
   {
     "title": "gt-planar.com",
     "url": "https://gt-planar.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Dark",
+      "Grid"
     ]
   },
   {
@@ -1607,35 +2154,47 @@
     "title": "All things WTF",
     "url": "https://www.allthingswtf.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Light",
+      "Typography"
     ]
   },
   {
     "title": "//TVINENKO™ WEB PORTFOLIO ⟶ UI/UX WEBSITE",
     "url": "https://www.behance.net/gallery/177478901/TVINENKO-WEB-PORTFOLIO-UIUX-WEBSITE",
     "tags": [
-      "Playful"
+      "Playful",
+      "Portfolio"
     ]
   },
   {
     "title": "Janna Deloume",
     "url": "https://jannadeloume.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Portfolio",
+      "Light",
+      "Illustration"
     ]
   },
   {
     "title": "shapeshiftfestival.com",
     "url": "https://shapeshiftfestival.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Event",
+      "Light",
+      "Typography",
+      "Grid"
     ]
   },
   {
     "title": "Studio of Vincent Lowe",
     "url": "https://www.vincent-lowe.info",
     "tags": [
-      "Playful"
+      "Playful",
+      "Portfolio",
+      "Dark"
     ]
   },
   {
@@ -1649,21 +2208,24 @@
     "title": "Luca Nardi",
     "url": "https://www.aboutluca.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Portfolio"
     ]
   },
   {
     "title": "Noomo",
     "url": "https://storytelling.noomoagency.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Agency"
     ]
   },
   {
     "title": "Cyera AI Guardian",
     "url": "https://secure-the-unknown.cyera.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "AI"
     ]
   },
   {
@@ -1684,14 +2246,19 @@
     "title": "orwell.byholm.co",
     "url": "https://orwell.byholm.co",
     "tags": [
-      "Playful"
+      "Playful",
+      "Dark",
+      "Minimal"
     ]
   },
   {
     "title": "Portfolio",
     "url": "https://galekto.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Portfolio",
+      "Dark",
+      "Typography"
     ]
   },
   {
@@ -1719,7 +2286,8 @@
     "title": "Tomasz \"ITom\" Szmajda",
     "url": "https://itomdev.com",
     "tags": [
-      "Playful"
+      "Playful",
+      "Portfolio"
     ]
   },
   {
@@ -1733,7 +2301,10 @@
     "title": "Pear",
     "url": "https://pear.no",
     "tags": [
-      "Playful"
+      "Playful",
+      "Agency",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -1747,7 +2318,10 @@
     "title": "Cover",
     "url": "https://buildcover.com",
     "tags": [
-      "Real estate"
+      "Real estate",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
@@ -1761,14 +2335,21 @@
     "title": "Readymag templates: Crystyle",
     "url": "https://readymag.com/designs/crystyle",
     "tags": [
-      "Luxury"
+      "Luxury",
+      "Shop",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Microsoft AI",
     "url": "https://microsoft.ai",
     "tags": [
-      "Luxury"
+      "Luxury",
+      "AI",
+      "Corporate",
+      "Light",
+      "Typography"
     ]
   },
   {
@@ -1782,56 +2363,77 @@
     "title": "Vero",
     "url": "https://www.verostudio.com",
     "tags": [
-      "Luxury"
+      "Luxury",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
     "title": "House of Honey",
     "url": "https://www.houseofhoney.com",
     "tags": [
-      "Luxury"
+      "Luxury",
+      "Agency",
+      "Light",
+      "Typography",
+      "Photography"
     ]
   },
   {
     "title": "OVA",
     "url": "https://ova-investment.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Fintech"
     ]
   },
   {
     "title": "Jesko Jets",
     "url": "https://jeskojets.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Dark",
+      "3D"
     ]
   },
   {
     "title": "Hiro",
     "url": "https://www.hiro.so",
     "tags": [
-      "Modern"
+      "Modern",
+      "Web3",
+      "Product",
+      "Light",
+      "Typography"
     ]
   },
   {
     "title": "Joby Aviation",
     "url": "https://www.jobyaviation.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Corporate",
+      "Light",
+      "Bold",
+      "Minimal"
     ]
   },
   {
     "title": "Outsource Consultants",
     "url": "https://oci.madebybuzzworthy.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Corporate"
     ]
   },
   {
     "title": "tks.world",
     "url": "https://www.tks.world/apply-now",
     "tags": [
-      "Modern"
+      "Modern",
+      "Dark",
+      "Photography"
     ]
   },
   {
@@ -1845,21 +2447,31 @@
     "title": "Clear Street",
     "url": "https://www.clearstreet.io",
     "tags": [
-      "Modern"
+      "Modern",
+      "Fintech",
+      "Dark",
+      "Colorful"
     ]
   },
   {
     "title": "Optikka",
     "url": "https://optikka.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Light",
+      "Minimal",
+      "3D"
     ]
   },
   {
     "title": "Meridian",
     "url": "https://trymeridian.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "AI",
+      "Product",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -1880,7 +2492,11 @@
     "title": "Keytom",
     "url": "https://keytom.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Fintech",
+      "Light",
+      "3D",
+      "Typography"
     ]
   },
   {
@@ -1894,14 +2510,17 @@
     "title": "worldquantfoundry.com",
     "url": "https://www.worldquantfoundry.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Dark",
+      "Minimal"
     ]
   },
   {
     "title": "happly gummies",
     "url": "https://gethapply.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Shop"
     ]
   },
   {
@@ -1915,7 +2534,11 @@
     "title": "Wembi",
     "url": "https://www.wembi.ai",
     "tags": [
-      "Modern"
+      "Modern",
+      "AI",
+      "Light",
+      "Typography",
+      "3D"
     ]
   },
   {
@@ -1929,21 +2552,31 @@
     "title": "Shopify Editions",
     "url": "https://www.shopify.com/editions/spring2026",
     "tags": [
-      "Modern"
+      "Modern",
+      "Product",
+      "Dark",
+      "Colorful"
     ]
   },
   {
     "title": "Wolverine Worldwide",
     "url": "https://wolverineworldwide.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Corporate",
+      "Light",
+      "Photography",
+      "Bold"
     ]
   },
   {
     "title": "Sentient Foundation",
     "url": "https://sentient.foundation",
     "tags": [
-      "Modern"
+      "Modern",
+      "AI",
+      "Light",
+      "Photography"
     ]
   },
   {
@@ -1951,6 +2584,10 @@
     "url": "https://walrus.xyz",
     "tags": [
       "Modern",
+      "Product",
+      "Web3",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -1958,7 +2595,8 @@
     "title": "Kononenko Architectural Bureau",
     "url": "https://kononenkogroup.com",
     "tags": [
-      "Modern"
+      "Modern",
+      "Agency"
     ]
   },
   {
@@ -1979,7 +2617,10 @@
     "title": "Zero",
     "url": "https://www.zero.university",
     "tags": [
-      "Modern"
+      "Modern",
+      "Light",
+      "3D",
+      "Minimal"
     ]
   },
   {
@@ -1993,7 +2634,10 @@
     "title": "Butter Video",
     "url": "https://www.butter.video",
     "tags": [
-      "Modern"
+      "Modern",
+      "Product",
+      "Light",
+      "3D"
     ]
   },
   {
@@ -2014,35 +2658,50 @@
     "title": "AIR business center",
     "url": "https://aircenter.space",
     "tags": [
-      "Modern"
+      "Modern",
+      "Real estate",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
     "title": "Cathy DOLLE",
     "url": "https://www.cathydolle.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio"
     ]
   },
   {
     "title": "Sileent",
     "url": "https://www.sileent.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency",
+      "AI",
+      "Dark",
+      "Typography"
     ]
   },
   {
     "title": "Voku.Studio™",
     "url": "https://voku.studio",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Jason Bergh",
     "url": "https://www.jasonbergh.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -2056,7 +2715,10 @@
     "title": "Intertapes",
     "url": "https://intertapes.net",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Blog",
+      "Dark",
+      "Grid"
     ]
   },
   {
@@ -2064,7 +2726,10 @@
     "url": "https://tlb.betteroff.studio",
     "tags": [
       "Gallery",
-      "Roadmap"
+      "Roadmap",
+      "Light",
+      "Minimal",
+      "Typography"
     ]
   },
   {
@@ -2085,14 +2750,18 @@
     "title": "Artefakt",
     "url": "https://artefakt.mov",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency",
+      "Dark",
+      "Typography"
     ]
   },
   {
     "title": "Obys Agency",
     "url": "https://obys.agency",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency"
     ]
   },
   {
@@ -2106,7 +2775,8 @@
     "title": "Major Media Agency",
     "url": "https://thiswasmajor.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency"
     ]
   },
   {
@@ -2120,28 +2790,36 @@
     "title": "Victor Furuya",
     "url": "https://victorfuruya.com/about",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
     "title": "Simon Holm Larsen",
     "url": "https://www.simonholm.studio",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio"
     ]
   },
   {
     "title": "Meech213",
     "url": "https://www.meech213.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Il Capo Production",
     "url": "https://www.ilcapoproduction.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency"
     ]
   },
   {
@@ -2162,14 +2840,20 @@
     "title": "Studio K95",
     "url": "https://k95.it",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency",
+      "Dark",
+      "Colorful",
+      "Minimal"
     ]
   },
   {
     "title": "RISK FILM",
     "url": "https://www.risk.film",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -2183,21 +2867,29 @@
     "title": "Kenichi Aikawa",
     "url": "https://aikawakenichi.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio"
     ]
   },
   {
     "title": "Le Mans Classic",
     "url": "https://lemansclassic.richardmille.com/curtain",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Event",
+      "Dark",
+      "Photography",
+      "Luxury"
     ]
   },
   {
     "title": "Scheme Engine",
     "url": "https://www.schemeengine.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency",
+      "Dark",
+      "Minimal"
     ]
   },
   {
@@ -2211,28 +2903,36 @@
     "title": "Gabriel Beaugonin",
     "url": "https://www.gabrielbeaugonin.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Jesper Landberg",
     "url": "https://jesperlandberg.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio"
     ]
   },
   {
     "title": "Maria Vasilyeva",
     "url": "https://www.mariavasilyeva.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio"
     ]
   },
   {
     "title": "Loop Creative Agency",
     "url": "https://loop-agency.framer.website/home-spiral",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Agency",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -2246,28 +2946,40 @@
     "title": "Brandon Yasin",
     "url": "https://brandonyasin.com",
     "tags": [
-      "Gallery"
+      "Gallery",
+      "Portfolio",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Marco Grimaldi",
     "url": "https://www.thenerodesign.com",
     "tags": [
-      "Footer"
+      "Footer",
+      "Portfolio",
+      "Light",
+      "Typography",
+      "Minimal"
     ]
   },
   {
     "title": "Vinay",
     "url": "https://vinay.design",
     "tags": [
-      "Footer"
+      "Footer",
+      "Portfolio",
+      "Light",
+      "Minimal"
     ]
   },
   {
     "title": "Footer",
     "url": "https://www.footer.design",
     "tags": [
-      "Footer"
+      "Footer",
+      "Light",
+      "Grid"
     ]
   },
   {
@@ -2281,35 +2993,49 @@
     "title": "How Superpower works",
     "url": "https://superpower.com/how-it-works",
     "tags": [
-      "Process"
+      "Process",
+      "Health",
+      "Light",
+      "Photography"
     ]
   },
   {
     "title": "Luke Baffait",
     "url": "https://www.lukebaffait.fr",
     "tags": [
-      "Process"
+      "Process",
+      "Portfolio"
     ]
   },
   {
     "title": "Cirform - AI Finance Website by Ronald Olsen for Awsmd",
     "url": "https://dribbble.com/shots/26684193-Cirform-AI-Finance-Website",
     "tags": [
-      "Metrics"
+      "Metrics",
+      "Fintech",
+      "AI",
+      "Dark"
     ]
   },
   {
     "title": "Eladio Dieste",
     "url": "https://www.eladiodieste.com",
     "tags": [
-      "Roadmap"
+      "Roadmap",
+      "Dark",
+      "Photography",
+      "Typography"
     ]
   },
   {
     "title": "koto.com",
     "url": "https://koto.com/about",
     "tags": [
-      "Team"
+      "Team",
+      "Agency",
+      "Dark",
+      "Illustration",
+      "Colorful"
     ]
   },
   {
@@ -2323,7 +3049,10 @@
     "title": "Meet Our Experts and Advisors",
     "url": "https://www.worldquantfoundry.com/about",
     "tags": [
-      "Team"
+      "Team",
+      "Corporate",
+      "Dark",
+      "Typography"
     ]
   },
   {
@@ -2344,7 +3073,10 @@
     "title": "Joele Frank",
     "url": "https://www.joelefrank.com",
     "tags": [
-      "Hero"
+      "Hero",
+      "Light",
+      "Bold",
+      "Typography"
     ]
   },
   {
@@ -2358,7 +3090,9 @@
     "title": "Floema®",
     "url": "https://floema.com/en",
     "tags": [
-      "Hero"
+      "Hero",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -2379,7 +3113,10 @@
     "title": "Green Powder For A Daily Boost",
     "url": "https://properhealth.com/products/greens-daily-boost-superfood-powder",
     "tags": [
-      "Shop"
+      "Shop",
+      "Health",
+      "Light",
+      "Minimal"
     ]
   },
   {
@@ -2435,7 +3172,10 @@
     "title": "Serotoninn",
     "url": "https://serotoninn.com",
     "tags": [
-      "Shop"
+      "Shop",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
@@ -2456,7 +3196,10 @@
     "title": "natureofthings",
     "url": "https://natureofthings.com",
     "tags": [
-      "Shop"
+      "Shop",
+      "Light",
+      "Photography",
+      "Minimal"
     ]
   },
   {
@@ -2484,6 +3227,7 @@
     "title": "Xiaomi Router BE6500 Pro",
     "url": "https://www.behance.net/gallery/184239881/Xiaomi-Router-BE6500-Pro",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -2491,6 +3235,11 @@
     "title": "intechnic.com",
     "url": "https://www.intechnic.com",
     "tags": [
+      "Agency",
+      "AI",
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -2512,6 +3261,10 @@
     "title": "Webflix Studio",
     "url": "https://www.webflixstudio.com",
     "tags": [
+      "Portfolio",
+      "Dark",
+      "Grid",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2519,6 +3272,7 @@
     "title": "Designing brands",
     "url": "https://www.e-w.se",
     "tags": [
+      "Agency",
       "Archive"
     ]
   },
@@ -2526,6 +3280,9 @@
     "title": "Colors",
     "url": "https://www.behance.net/gallery/189084267/Healthcare-Platform-UIUX-Design-Mobile-App-Design?l=75",
     "tags": [
+      "Health",
+      "Light",
+      "Typography",
       "Archive"
     ]
   },
@@ -2533,6 +3290,10 @@
     "title": "Street Art News Website Design by Shakuro UI/UX for Shakuro",
     "url": "https://dribbble.com/shots/23013646-Street-Art-News-Website-Design",
     "tags": [
+      "Blog",
+      "Light",
+      "Grid",
+      "Colorful",
       "Archive"
     ]
   },
@@ -2547,6 +3308,10 @@
     "title": "Opus",
     "url": "https://www.opus.so",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2554,6 +3319,9 @@
     "title": "Finto - Finance Website Template by Barly Vallendito for UI8",
     "url": "https://dribbble.com/shots/23192162-Finto-Finance-Website-Template",
     "tags": [
+      "Fintech",
+      "Product",
+      "Dark",
       "Archive"
     ]
   },
@@ -2561,6 +3329,9 @@
     "title": "Todoist",
     "url": "https://todoist.com/home",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2568,6 +3339,9 @@
     "title": "giftogram.com",
     "url": "https://giftogram.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2575,6 +3349,7 @@
     "title": "award.co",
     "url": "https://www.award.co/solutions/rewards-recognition-platform",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -2582,6 +3357,9 @@
     "title": "tremendous.com",
     "url": "https://www.tremendous.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2603,6 +3381,7 @@
     "title": "Bonusly",
     "url": "https://bonusly.com",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -2610,6 +3389,10 @@
     "title": "Advapay Website UI/UX by Cuberto",
     "url": "https://dribbble.com/shots/21968782-Advapay-Website-UI-UX",
     "tags": [
+      "Fintech",
+      "Product",
+      "Light",
+      "Grid",
       "Archive"
     ]
   },
@@ -2617,6 +3400,9 @@
     "title": "AppFlowy Website Redesign by Cuberto",
     "url": "https://dribbble.com/shots/23443979-AppFlowy-Website-Redesign",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2631,6 +3417,7 @@
     "title": "Smart Investment Service Web Design by tubik UX for tubik",
     "url": "https://dribbble.com/shots/23475625-Smart-Investment-Service-Web-Design",
     "tags": [
+      "Fintech",
       "Archive"
     ]
   },
@@ -2638,6 +3425,9 @@
     "title": "Healthcare Landing Page by Sam Halpert for Awsmd",
     "url": "https://dribbble.com/shots/22852009-Healthcare-Landing-Page",
     "tags": [
+      "Health",
+      "Light",
+      "Grid",
       "Archive"
     ]
   },
@@ -2645,6 +3435,9 @@
     "title": "SaaS Landing Page by Monty Hayton",
     "url": "https://dribbble.com/shots/23255519-SaaS-Landing-Page",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2652,6 +3445,9 @@
     "title": "BioTech - Healthcare Landing Page 🧬 by Fahad® for Keitoto",
     "url": "https://dribbble.com/shots/21972830-BioTech-Healthcare-Landing-Page",
     "tags": [
+      "Health",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2659,6 +3455,10 @@
     "title": "Web UI by DStudio®",
     "url": "https://dribbble.com/shots/21830594-Web-UI",
     "tags": [
+      "Health",
+      "Light",
+      "Grid",
+      "Photography",
       "Archive"
     ]
   },
@@ -2666,6 +3466,7 @@
     "title": "Medizen - Healthcare Technology Website Design by Muhammad Irfan for O",
     "url": "https://dribbble.com/shots/22840841-Medizen-Healthcare-Technology-Website-Design",
     "tags": [
+      "Health",
       "Archive"
     ]
   },
@@ -2673,6 +3474,10 @@
     "title": "Healthsnap - Healthcare Mobile App by Royhan Muhammad for One Week Won",
     "url": "https://dribbble.com/shots/23160602-Healthsnap-Healthcare-Mobile-App",
     "tags": [
+      "Health",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2680,6 +3485,10 @@
     "title": "Skin Care Application by Awsmd",
     "url": "https://dribbble.com/shots/23316009-Skin-Care-Application",
     "tags": [
+      "Health",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2687,6 +3496,7 @@
     "title": "Healthist - elements & system",
     "url": "https://www.behance.net/gallery/170399917/Healthist?l=2",
     "tags": [
+      "Health",
       "Archive"
     ]
   },
@@ -2694,6 +3504,9 @@
     "title": "Services",
     "url": "https://www.onemedical.com/services/kids",
     "tags": [
+      "Health",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -2701,6 +3514,9 @@
     "title": "mayoclinic-hp",
     "url": "https://www.mayoclinic.org",
     "tags": [
+      "Health",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -2708,6 +3524,9 @@
     "title": "bhf-hp",
     "url": "https://www.bhf.org.uk",
     "tags": [
+      "Health",
+      "Light",
+      "Bold",
       "Archive"
     ]
   },
@@ -2715,6 +3534,9 @@
     "title": "The Francis Crick Institute",
     "url": "https://www.crick.ac.uk",
     "tags": [
+      "Health",
+      "Light",
+      "Grid",
       "Archive"
     ]
   },
@@ -2722,6 +3544,10 @@
     "title": "projects-meetups, conferences",
     "url": "https://www.crick.ac.uk/whats-on/title-to-be-confirmed-45",
     "tags": [
+      "Event",
+      "Health",
+      "Dark",
+      "Photography",
       "Archive"
     ]
   },
@@ -2729,6 +3555,9 @@
     "title": "about us",
     "url": "https://www.crick.ac.uk/about-us/our-strategy",
     "tags": [
+      "Health",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -2736,6 +3565,10 @@
     "title": "elements",
     "url": "https://www.behance.net/gallery/167313207/PHR-Health-UI-UX-Design?l=55",
     "tags": [
+      "Health",
+      "Product",
+      "Light",
+      "Typography",
       "Archive"
     ]
   },
@@ -2743,6 +3576,7 @@
     "title": "elements2",
     "url": "https://www.behance.net/gallery/185369961/Medical-case-study?l=26",
     "tags": [
+      "Health",
       "Archive"
     ]
   },
@@ -2750,6 +3584,10 @@
     "title": "graph-elements",
     "url": "https://www.behance.net/gallery/185339963/Medical-Dashboard?l=53",
     "tags": [
+      "Health",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2757,6 +3595,9 @@
     "title": "Curemed",
     "url": "https://curemed-128.webflow.io",
     "tags": [
+      "Health",
+      "Light",
+      "3D",
       "Archive"
     ]
   },
@@ -2764,6 +3605,10 @@
     "title": "AI Medical Hospital Website by Awsmd",
     "url": "https://dribbble.com/shots/22663837-AI-Medical-Hospital-Website",
     "tags": [
+      "Health",
+      "AI",
+      "Light",
+      "Grid",
       "Archive"
     ]
   },
@@ -2771,6 +3616,11 @@
     "title": "Biotech AI Medical Testing Website by Andrew Jr. for DesignUp",
     "url": "https://dribbble.com/shots/21385086-Biotech-AI-Medical-Testing-Website",
     "tags": [
+      "Health",
+      "AI",
+      "Light",
+      "3D",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2778,6 +3628,10 @@
     "title": "Meditation and medicine website by Awsmd",
     "url": "https://dribbble.com/shots/20703342-Meditation-and-medicine-website",
     "tags": [
+      "Health",
+      "Light",
+      "3D",
+      "Typography",
       "Archive"
     ]
   },
@@ -2785,6 +3639,10 @@
     "title": "mymind.com",
     "url": "https://mymind.com",
     "tags": [
+      "Product",
+      "Light",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2792,6 +3650,9 @@
     "title": "whereby.com",
     "url": "https://whereby.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2799,6 +3660,9 @@
     "title": "HubSpot",
     "url": "https://www.hubspot.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2806,6 +3670,7 @@
     "title": "taskManagement",
     "url": "https://dribbble.com/shots/17686643/attachments/12845066?mode=media",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -2813,6 +3678,9 @@
     "title": "Todoist",
     "url": "https://todoist.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2820,6 +3688,9 @@
     "title": "trello.com",
     "url": "https://trello.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2827,6 +3698,10 @@
     "title": "ClickUp",
     "url": "https://clickup.com",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2841,6 +3716,10 @@
     "title": "Akiflow",
     "url": "https://akiflow.com",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2869,6 +3748,7 @@
     "title": "Passwordless Authentication",
     "url": "https://www.okta.com/customer-identity/passwordless",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -2883,6 +3763,10 @@
     "title": "Azure",
     "url": "https://azure.microsoft.com/en-gb",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "3D",
       "Archive"
     ]
   },
@@ -2904,6 +3788,7 @@
     "title": "Reflect Notes",
     "url": "https://reflect.app/home",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -2918,6 +3803,9 @@
     "title": "hoverAnimations - SkipMatrix",
     "url": "https://www.skipmatrix.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2925,6 +3813,9 @@
     "title": "Details",
     "url": "https://www.designme.agency",
     "tags": [
+      "Agency",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2932,6 +3823,10 @@
     "title": "Details",
     "url": "https://stealthai.framer.website/home-3",
     "tags": [
+      "AI",
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2946,6 +3841,7 @@
     "title": "Gemini",
     "url": "https://deepmind.google/technologies/gemini",
     "tags": [
+      "AI",
       "Archive"
     ]
   },
@@ -2953,6 +3849,9 @@
     "title": "Techty-Framer",
     "url": "https://techty.framer.website",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2960,6 +3859,10 @@
     "title": "Clowd",
     "url": "https://clowd.framer.website/homepage-1",
     "tags": [
+      "Product",
+      "Light",
+      "Colorful",
+      "Playful",
       "Archive"
     ]
   },
@@ -2967,6 +3870,7 @@
     "title": "Esports SaaS Landing Page & Purchase flow on Behance",
     "url": "https://www.behance.net/gallery/148566487/Esports-SaaS-Landing-Page-Purchase-flow",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -2974,6 +3878,10 @@
     "title": "On-demand Consumer Research",
     "url": "https://www.gwi.com",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "Typography",
       "Archive"
     ]
   },
@@ -2981,6 +3889,9 @@
     "title": "Amber",
     "url": "https://amberstudio.com",
     "tags": [
+      "Agency",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -2988,6 +3899,9 @@
     "title": "Project N",
     "url": "https://www.project-n.com",
     "tags": [
+      "Agency",
+      "Dark",
+      "Bold",
       "Archive"
     ]
   },
@@ -3002,6 +3916,9 @@
     "title": "Playbase.GG | Landing page by Boris Batocanin for R A G E B I T E",
     "url": "https://dribbble.com/shots/16881185-Playbase-GG-Landing-page",
     "tags": [
+      "Product",
+      "Light",
+      "Grid",
       "Archive"
     ]
   },
@@ -3009,6 +3926,7 @@
     "title": "Eloisa Marchesoni",
     "url": "https://www.eloisamarchesoni.com",
     "tags": [
+      "Portfolio",
       "Archive"
     ]
   },
@@ -3030,6 +3948,9 @@
     "title": "storm.framer.website",
     "url": "https://storm.framer.website",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3044,6 +3965,10 @@
     "title": "Frankie AI",
     "url": "https://frankie.framer.website",
     "tags": [
+      "AI",
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3058,6 +3983,7 @@
     "title": "check1",
     "url": "https://dribbble.com/shots/15874210-Checkout/attachments/7698944?mode=media",
     "tags": [
+      "Shop",
       "Archive"
     ]
   },
@@ -3065,6 +3991,9 @@
     "title": "check2",
     "url": "https://dribbble.com/shots/15943037-Web-UI",
     "tags": [
+      "Shop",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3072,6 +4001,7 @@
     "title": "shoppingCart2",
     "url": "https://dribbble.com/shots/15943037/attachments/7776004?mode=media",
     "tags": [
+      "Shop",
       "Archive"
     ]
   },
@@ -3079,6 +4009,10 @@
     "title": "Exa",
     "url": "https://exa.ai",
     "tags": [
+      "AI",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3093,6 +4027,10 @@
     "title": "modal.com",
     "url": "https://modal.com",
     "tags": [
+      "AI",
+      "Product",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3107,6 +4045,10 @@
     "title": "AuthKit by WorkOS",
     "url": "https://www.authkit.com",
     "tags": [
+      "Product",
+      "Dark",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3114,6 +4056,10 @@
     "title": "Chainlink font",
     "url": "https://chain.link",
     "tags": [
+      "Web3",
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -3128,6 +4074,7 @@
     "title": "gradient Ragebite",
     "url": "https://www.behance.net/gallery/145579153/NFT-MARKETPLACE",
     "tags": [
+      "Web3",
       "Archive"
     ]
   },
@@ -3135,6 +4082,10 @@
     "title": "upguard.com",
     "url": "https://www.upguard.com",
     "tags": [
+      "Product",
+      "AI",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3156,6 +4107,10 @@
     "title": "Diana Lu Portfolio",
     "url": "https://diana.lu",
     "tags": [
+      "Portfolio",
+      "Light",
+      "Colorful",
+      "Playful",
       "Archive"
     ]
   },
@@ -3163,6 +4118,10 @@
     "title": "Art & Code",
     "url": "https://www.artandcode.eu/team",
     "tags": [
+      "Agency",
+      "Dark",
+      "Photography",
+      "Typography",
       "Archive"
     ]
   },
@@ -3170,6 +4129,10 @@
     "title": "Jackson Holcomb",
     "url": "https://jacksonholcomb.com",
     "tags": [
+      "Corporate",
+      "Light",
+      "Minimal",
+      "Grid",
       "Archive"
     ]
   },
@@ -3184,6 +4147,9 @@
     "title": "Linear",
     "url": "https://linear.app",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3191,6 +4157,10 @@
     "title": "Dimension",
     "url": "https://www.dimension.dev",
     "tags": [
+      "AI",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3198,6 +4168,10 @@
     "title": "Framer",
     "url": "https://www.framer.com",
     "tags": [
+      "Product",
+      "AI",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3205,6 +4179,10 @@
     "title": "gencellenergy.com",
     "url": "https://www.gencellenergy.com",
     "tags": [
+      "Corporate",
+      "Dark",
+      "Photography",
+      "Typography",
       "Archive"
     ]
   },
@@ -3212,6 +4190,7 @@
     "title": "Rise",
     "url": "https://www.risecalendar.com",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -3219,6 +4198,9 @@
     "title": "Reflect Notes",
     "url": "https://reflect.app",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3226,6 +4208,9 @@
     "title": "Halo Lab",
     "url": "https://www.halo-lab.com",
     "tags": [
+      "Agency",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3247,6 +4232,8 @@
     "title": "All Icons by Faizal khusein",
     "url": "https://thenounproject.com/browse/creator/faizalkhusein/icons?p=1",
     "tags": [
+      "Light",
+      "Grid",
       "Archive"
     ]
   },
@@ -3254,6 +4241,10 @@
     "title": "Andermatt",
     "url": "https://andermatt-realestate.ch",
     "tags": [
+      "Real estate",
+      "Light",
+      "Photography",
+      "Typography",
       "Archive"
     ]
   },
@@ -3261,6 +4252,9 @@
     "title": "The YARDS",
     "url": "https://www.theyardskempscreek.com",
     "tags": [
+      "Real estate",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3268,6 +4262,10 @@
     "title": "The Brooklyn Tower",
     "url": "https://thebrooklyntower.com",
     "tags": [
+      "Real estate",
+      "Light",
+      "Photography",
+      "Luxury",
       "Archive"
     ]
   },
@@ -3282,6 +4280,10 @@
     "title": "Fabio Nobile - Tilestone - Real Estate Website Design – SAVEE",
     "url": "https://savee.it/i/ienvpSr",
     "tags": [
+      "Real estate",
+      "Light",
+      "Minimal",
+      "Photography",
       "Archive"
     ]
   },
@@ -3289,6 +4291,9 @@
     "title": "Fabio Nobile - Perumnas - Real Estate Website – SAVEE",
     "url": "https://savee.it/i/EZGNy0Q",
     "tags": [
+      "Real estate",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -3310,6 +4315,9 @@
     "title": "Residendial real estate - United States by lyashnko",
     "url": "https://dribbble.com/shots/18605941-Residendial-real-estate-United-States",
     "tags": [
+      "Real estate",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3317,6 +4325,10 @@
     "title": "Real Oemah - Real Estate Landing Page by Sarwanto",
     "url": "https://dribbble.com/shots/23721346-Real-Oemah-Real-Estate-Landing-Page",
     "tags": [
+      "Real estate",
+      "Light",
+      "Grid",
+      "Photography",
       "Archive"
     ]
   },
@@ -3324,6 +4336,10 @@
     "title": "Real Estate Platform by Sam Halpert for Awsmd",
     "url": "https://dribbble.com/shots/23930226-Real-Estate-Platform",
     "tags": [
+      "Real estate",
+      "Light",
+      "Grid",
+      "Photography",
       "Archive"
     ]
   },
@@ -3331,6 +4347,10 @@
     "title": "Real Estate Agency by Bogdan Falin for QClay",
     "url": "https://dribbble.com/shots/23924439-Real-Estate-Agency",
     "tags": [
+      "Real estate",
+      "Light",
+      "Photography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3338,6 +4358,9 @@
     "title": "NextSpace",
     "url": "https://nextspace.framer.website",
     "tags": [
+      "Agency",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -3345,6 +4368,10 @@
     "title": "Stripe",
     "url": "https://stripe.com",
     "tags": [
+      "Fintech",
+      "Product",
+      "Light",
+      "Colorful",
       "Archive"
     ]
   },
@@ -3352,6 +4379,10 @@
     "title": "Column",
     "url": "https://column.com",
     "tags": [
+      "Fintech",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3359,6 +4390,9 @@
     "title": "Clearbit",
     "url": "https://clearbit.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3373,6 +4407,9 @@
     "title": "Header",
     "url": "https://apex-collection.webflow.io/header/01",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3380,6 +4417,9 @@
     "title": "Quillow",
     "url": "https://quillow.webflow.io",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3401,6 +4441,9 @@
     "title": "cybellum.com",
     "url": "https://cybellum.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3408,6 +4451,9 @@
     "title": "Business Consulting Services",
     "url": "https://www.ibm.com/consulting?lnk=L0G",
     "tags": [
+      "Corporate",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3415,6 +4461,9 @@
     "title": "ionix.io",
     "url": "https://www.ionix.io",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3422,6 +4471,8 @@
     "title": "Checkmarx SBOM tool: Automate Compliance & Enhance Security",
     "url": "https://checkmarx.com/product/sbom",
     "tags": [
+      "Product",
+      "Dark",
       "Archive"
     ]
   },
@@ -3429,6 +4480,9 @@
     "title": "Developer security",
     "url": "https://snyk.io",
     "tags": [
+      "Product",
+      "AI",
+      "Dark",
       "Archive"
     ]
   },
@@ -3436,6 +4490,8 @@
     "title": "Mend.io (formerly WhiteSource)",
     "url": "https://www.mend.io",
     "tags": [
+      "Product",
+      "Dark",
       "Archive"
     ]
   },
@@ -3450,6 +4506,9 @@
     "title": "Vidyard",
     "url": "https://www.vidyard.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3471,6 +4530,9 @@
     "title": "Wiz",
     "url": "https://www.wiz.io",
     "tags": [
+      "Product",
+      "Light",
+      "Illustration",
       "Archive"
     ]
   },
@@ -3485,6 +4547,8 @@
     "title": "My Framer Site",
     "url": "https://www.notabletek.com",
     "tags": [
+      "Corporate",
+      "Light",
       "Archive"
     ]
   },
@@ -3492,6 +4556,10 @@
     "title": "Protocol3",
     "url": "https://protocol3.framer.website",
     "tags": [
+      "Product",
+      "Fintech",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3506,6 +4574,8 @@
     "title": "Polpharma API",
     "url": "https://www.api.polpharma.com",
     "tags": [
+      "Corporate",
+      "Health",
       "Archive"
     ]
   },
@@ -3513,6 +4583,7 @@
     "title": "IBM",
     "url": "https://www.ibm.com/us-en",
     "tags": [
+      "Corporate",
       "Archive"
     ]
   },
@@ -3527,6 +4598,10 @@
     "title": "SaaS Pro",
     "url": "https://saaspro.framer.ai",
     "tags": [
+      "Product",
+      "Real estate",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3534,6 +4609,7 @@
     "title": "Blockchain Wallet Landing Page by Bogdan Falin for QClay",
     "url": "https://dribbble.com/shots/24128526-Blockchain-Wallet-Landing-Page",
     "tags": [
+      "Web3",
       "Archive"
     ]
   },
@@ -3548,6 +4624,9 @@
     "title": "Web 3.0 Platform by Bogdan Falin for QClay",
     "url": "https://dribbble.com/shots/23085956-Web-3-0-Platform",
     "tags": [
+      "Web3",
+      "Dark",
+      "Bold",
       "Archive"
     ]
   },
@@ -3562,6 +4641,10 @@
     "title": "Zerve – Hero by Barbora Kratochvilová for Balkan Brothers",
     "url": "https://dribbble.com/shots/23846525-Zerve-Hero",
     "tags": [
+      "Product",
+      "AI",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3569,6 +4652,10 @@
     "title": "Web Design Manchester",
     "url": "https://madebyshape.co.uk",
     "tags": [
+      "Agency",
+      "Light",
+      "Minimal",
+      "Typography",
       "Archive"
     ]
   },
@@ -3590,6 +4677,9 @@
     "title": "Ithaca - Crypto Landing Page by Bogdan Falin for QClay",
     "url": "https://dribbble.com/shots/23943430-Ithaca-Crypto-Landing-Page",
     "tags": [
+      "Web3",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3597,6 +4687,10 @@
     "title": "Investment Platform by Awsmd",
     "url": "https://dribbble.com/shots/24199577-Investment-Platform",
     "tags": [
+      "Fintech",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3604,6 +4698,7 @@
     "title": "Scaleup Finance",
     "url": "https://www.scaleup.finance",
     "tags": [
+      "Fintech",
       "Archive"
     ]
   },
@@ -3618,6 +4713,7 @@
     "title": "Frame.io",
     "url": "https://frame.io/integrations",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -3632,6 +4728,7 @@
     "title": "roswellbiotech.com",
     "url": "https://www.roswellbiotech.com",
     "tags": [
+      "Health",
       "Archive"
     ]
   },
@@ -3639,6 +4736,9 @@
     "title": "CloudZero",
     "url": "https://www.cloudzero.com",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3653,6 +4753,9 @@
     "title": "Orbiz - SaaS Website Template by Barly Vallendito for UI8",
     "url": "https://dribbble.com/shots/23624533-Orbiz-SaaS-Website-Template",
     "tags": [
+      "Product",
+      "Fintech",
+      "Light",
       "Archive"
     ]
   },
@@ -3660,6 +4763,9 @@
     "title": "Ad Astra",
     "url": "https://territorystudio.com/project/adastra",
     "tags": [
+      "Agency",
+      "Dark",
+      "Photography",
       "Archive"
     ]
   },
@@ -3667,6 +4773,8 @@
     "title": "GitHub: Let’s build from here",
     "url": "https://github.com",
     "tags": [
+      "Product",
+      "Dark",
       "Archive"
     ]
   },
@@ -3695,6 +4803,9 @@
     "title": "hero pattern",
     "url": "https://dribbble.com/shots/24721711-Cointinental-Web3-Saas-WebSite",
     "tags": [
+      "Web3",
+      "Product",
+      "Dark",
       "Archive"
     ]
   },
@@ -3702,6 +4813,9 @@
     "title": "Framer on X: \"Congrats to @heyirfanaziz for winning the @offgrid_desig",
     "url": "https://x.com/framer/status/1706626463884312605",
     "tags": [
+      "Dark",
+      "Minimal",
+      "Typography",
       "Archive"
     ]
   },
@@ -3709,6 +4823,10 @@
     "title": "Hyperice X 2",
     "url": "https://visuelle.co.uk/hyperice-x-2",
     "tags": [
+      "Blog",
+      "Light",
+      "Grid",
+      "Typography",
       "Archive"
     ]
   },
@@ -3716,6 +4834,9 @@
     "title": "Vercel Ship",
     "url": "https://vercel.com/ship",
     "tags": [
+      "Event",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3723,6 +4844,7 @@
     "title": "FDDAY 2024 Edition",
     "url": "https://fdday.eu",
     "tags": [
+      "Event",
       "Archive"
     ]
   },
@@ -3730,6 +4852,7 @@
     "title": "DIBI Conference 2025",
     "url": "https://dibiconference.com",
     "tags": [
+      "Event",
       "Archive"
     ]
   },
@@ -3744,6 +4867,9 @@
     "title": "NVE: Creative Marketing Agency",
     "url": "https://experiencenve.com",
     "tags": [
+      "Agency",
+      "Dark",
+      "Typography",
       "Archive"
     ]
   },
@@ -3751,6 +4877,9 @@
     "title": "infinite-marquee-css-only-cloneable.webflow.io",
     "url": "https://infinite-marquee-css-only-cloneable.webflow.io",
     "tags": [
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -3758,6 +4887,11 @@
     "title": "Ujjo",
     "url": "https://ujjo.webflow.io",
     "tags": [
+      "Branding",
+      "Shop",
+      "Light",
+      "Bold",
+      "Grid",
       "Archive"
     ]
   },
@@ -3765,6 +4899,10 @@
     "title": "DevStudio Con 2024",
     "url": "https://www.devstudiocon.com",
     "tags": [
+      "Event",
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -3772,6 +4910,7 @@
     "title": "Implement | Corporate Redesign",
     "url": "https://www.behance.net/gallery/178503981/Implement-Corporate-Redesign",
     "tags": [
+      "Corporate",
       "Archive"
     ]
   },
@@ -3814,6 +4953,7 @@
     "title": "Learn about web3 and earn",
     "url": "https://www.easya.io",
     "tags": [
+      "Web3",
       "Archive"
     ]
   },
@@ -3821,6 +4961,11 @@
     "title": "Degen Pepe Inu Fan Token Memecoin",
     "url": "https://www.behance.net/gallery/195483169/Degen-Pepe-Inu-Fan-Token-Memecoin",
     "tags": [
+      "Web3",
+      "Branding",
+      "Light",
+      "Colorful",
+      "Playful",
       "Archive"
     ]
   },
@@ -3828,6 +4973,7 @@
     "title": "Meme coin website by Arafat",
     "url": "https://dribbble.com/shots/24879810-Meme-coin-website",
     "tags": [
+      "Web3",
       "Archive"
     ]
   },
@@ -3835,6 +4981,9 @@
     "title": "Base",
     "url": "https://www.base.org",
     "tags": [
+      "Web3",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3842,6 +4991,10 @@
     "title": "NIKE Future Movement, Branding",
     "url": "https://www.pinterest.com/pin/268527196526214685",
     "tags": [
+      "Branding",
+      "Light",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -3849,6 +5002,9 @@
     "title": "State Of Create",
     "url": "https://stateofcreate.co",
     "tags": [
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -3863,6 +5019,8 @@
     "title": "VegaBet - Online Casino Platform by Sok Studio",
     "url": "https://dribbble.com/shots/24924990-VegaBet-Online-Casino-Platform",
     "tags": [
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3870,6 +5028,9 @@
     "title": "Fantasy Football - Crypto Game Ui Dashboard",
     "url": "https://www.behance.net/gallery/206586137/Fantasy-Football-Crypto-Game-Ui-Dashboard?l=3",
     "tags": [
+      "Web3",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3891,6 +5052,9 @@
     "title": "Phaetus",
     "url": "https://dribbble.com/shots/22470742-Phaetus-10th-Anniversary",
     "tags": [
+      "Event",
+      "Dark",
+      "Playful",
       "Archive"
     ]
   },
@@ -3898,6 +5062,10 @@
     "title": "Kingcoin - Website Header Exploration 👑 by Fadhilah Rizky for One Week",
     "url": "https://dribbble.com/shots/15730707-Kingcoin-Website-Header-Exploration",
     "tags": [
+      "Web3",
+      "Dark",
+      "Playful",
+      "Illustration",
       "Archive"
     ]
   },
@@ -3905,6 +5073,10 @@
     "title": "NFTs Marketplace Landing Page by Ibnu SW for SLAB Design Studio",
     "url": "https://dribbble.com/shots/23199687-NFTs-Marketplace-Landing-Page",
     "tags": [
+      "Web3",
+      "Light",
+      "Playful",
+      "Illustration",
       "Archive"
     ]
   },
@@ -3919,6 +5091,9 @@
     "title": "Chonky Bits Pixel Font",
     "url": "https://www.behance.net/gallery/224510475/Chonky-Bits-Pixel-Font?l=10",
     "tags": [
+      "Dark",
+      "Typography",
+      "Illustration",
       "Archive"
     ]
   },
@@ -3926,6 +5101,10 @@
     "title": "AMUL landing page redesign",
     "url": "https://www.behance.net/gallery/222257945/AMUL-landing-page-redesign?l=122",
     "tags": [
+      "Branding",
+      "Light",
+      "Playful",
+      "Illustration",
       "Archive"
     ]
   },
@@ -3933,6 +5112,9 @@
     "title": "Litverse | Mobile App Design 🔥",
     "url": "https://www.pinterest.com/pin/3588874697424909",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -3940,6 +5122,9 @@
     "title": "Creative Design and Development Agency",
     "url": "https://www.pinterest.com/pin/101331060519596356",
     "tags": [
+      "Agency",
+      "Dark",
+      "Grid",
       "Archive"
     ]
   },
@@ -3947,6 +5132,7 @@
     "title": "deviantart.com",
     "url": "https://www.deviantart.com/evil-s/art/Starlight-Mobile-UI-649290161",
     "tags": [
+      "Dark",
       "Archive"
     ]
   },
@@ -3954,6 +5140,8 @@
     "title": "UI design Space Rangers (2016) - Konstantin Bedritskiy",
     "url": "https://www.pinterest.com/pin/380202393564356902",
     "tags": [
+      "Dark",
+      "Illustration",
       "Archive"
     ]
   },
@@ -3961,6 +5149,8 @@
     "title": "Retro sci-fi UI",
     "url": "https://www.pinterest.com/pin/2955555999001983",
     "tags": [
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -3968,6 +5158,7 @@
     "title": "RED TIDES_ UI design sketch, yang qi917",
     "url": "https://www.pinterest.com/pin/4151824641634120",
     "tags": [
+      "Dark",
       "Archive"
     ]
   },
@@ -3975,6 +5166,7 @@
     "title": "StarCraft II: Nova Covert Ops",
     "url": "https://www.pinterest.com/pin/234187249367271500",
     "tags": [
+      "Dark",
       "Archive"
     ]
   },
@@ -3982,6 +5174,8 @@
     "title": "Unpacking Returnal’s UX design: Gameplay-first UI, retro-futuristic te",
     "url": "https://www.pinterest.com/pin/58406126407631162",
     "tags": [
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -4003,6 +5197,9 @@
     "title": "Casino style Cyberpunk 2077",
     "url": "https://www.behance.net/gallery/163058555/Casino-style-Cyberpunk-2077?l=21",
     "tags": [
+      "Dark",
+      "Bold",
+      "Colorful",
       "Archive"
     ]
   },
@@ -4010,6 +5207,9 @@
     "title": "Sleek Crypto Staking Dashboard UI Design – Green Neon Theme by Nikita",
     "url": "https://dribbble.com/shots/26053428-Sleek-Crypto-Staking-Dashboard-UI-Design-Green-Neon-Theme",
     "tags": [
+      "Web3",
+      "Product",
+      "Dark",
       "Archive"
     ]
   },
@@ -4017,6 +5217,10 @@
     "title": "Lott | Modern Marketing Agency Dashboard",
     "url": "https://www.behance.net/gallery/222811777/Lott-Modern-Marketing-Agency-Dashboard?l=0",
     "tags": [
+      "Product",
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -4024,6 +5228,9 @@
     "title": "Crypto Casino UI screens by vino_costa for Roobinium",
     "url": "https://dribbble.com/shots/19793001-Crypto-Casino-UI-screens",
     "tags": [
+      "Web3",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -4038,6 +5245,9 @@
     "title": "Everything App for your teams",
     "url": "https://huly.io",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4052,6 +5262,11 @@
     "title": "FIFTYSEVEN",
     "url": "https://www.fiftyseven.co/studio",
     "tags": [
+      "Agency",
+      "Branding",
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -4066,6 +5281,9 @@
     "title": "Pelantium Odyssey - Crypto Platform by Sam Halpert for Awsmd",
     "url": "https://dribbble.com/shots/24406449-Pelantium-Odyssey-Crypto-Platform",
     "tags": [
+      "Web3",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -4073,6 +5291,10 @@
     "title": "Crypto Landing Page by Levi Wilson for QClay",
     "url": "https://dribbble.com/shots/24703526-Crypto-Landing-Page",
     "tags": [
+      "Web3",
+      "Fintech",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -4080,6 +5302,8 @@
     "title": "Trading Platform Web Design by Levi Wilson for QClay",
     "url": "https://dribbble.com/shots/24462643-Trading-Platform-Web-Design",
     "tags": [
+      "Fintech",
+      "Dark",
       "Archive"
     ]
   },
@@ -4087,6 +5311,9 @@
     "title": "Crypto Investments - Landing Page by Bogdan Falin for QClay",
     "url": "https://dribbble.com/shots/24561718-Crypto-Investments-Landing-Page",
     "tags": [
+      "Web3",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -4094,6 +5321,9 @@
     "title": "Plasma Transaction UI Animation by Awsmd",
     "url": "https://dribbble.com/shots/24601164-Plasma-Transaction-UI-Animation",
     "tags": [
+      "Web3",
+      "Dark",
+      "3D",
       "Archive"
     ]
   },
@@ -4108,6 +5338,10 @@
     "title": "Alex Barashkov on X: \"Learn how we created a light beam from @neondata",
     "url": "https://x.com/alex_barashkov/status/1795856666421862561",
     "tags": [
+      "Product",
+      "Dark",
+      "Grid",
+      "3D",
       "Archive"
     ]
   },
@@ -4122,6 +5356,10 @@
     "title": "Moonbeam",
     "url": "https://moonbeam.network",
     "tags": [
+      "Web3",
+      "AI",
+      "Dark",
+      "Typography",
       "Archive"
     ]
   },
@@ -4129,6 +5367,11 @@
     "title": "Coinpliance",
     "url": "https://www.coinpliance.eu",
     "tags": [
+      "Web3",
+      "Fintech",
+      "Dark",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4150,6 +5393,9 @@
     "title": "Peaq",
     "url": "https://www.peaq.network",
     "tags": [
+      "Web3",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -4157,6 +5403,10 @@
     "title": "Helium Mobile",
     "url": "https://hellohelium.com",
     "tags": [
+      "Product",
+      "Light",
+      "Bold",
+      "3D",
       "Archive"
     ]
   },
@@ -4178,6 +5428,10 @@
     "title": "Jamie",
     "url": "https://www.meetjamie.ai",
     "tags": [
+      "Product",
+      "AI",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4192,6 +5446,10 @@
     "title": "EventBeds™ by NuBreed Hotels",
     "url": "https://www.eventbeds.com",
     "tags": [
+      "Product",
+      "Light",
+      "Bold",
+      "3D",
       "Archive"
     ]
   },
@@ -4199,6 +5457,9 @@
     "title": "store.google.com",
     "url": "https://store.google.com/us/category/connected_home?hl=en-US",
     "tags": [
+      "Shop",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4206,6 +5467,9 @@
     "title": "ShakaTel | Landing Design for Telecom Startup by Linur for Eloqwnt",
     "url": "https://dribbble.com/shots/24226003-ShakaTel-Landing-Design-for-Telecom-Startup",
     "tags": [
+      "Product",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4213,6 +5477,7 @@
     "title": "Xiaomi Sound Pro",
     "url": "https://www.behance.net/gallery/159626015/Xiaomi-Sound-Pro",
     "tags": [
+      "Product",
       "Archive"
     ]
   },
@@ -4227,6 +5492,9 @@
     "title": "Chirp",
     "url": "https://chirpwireless.io",
     "tags": [
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4255,6 +5523,11 @@
     "title": "Website for a Financial App ✦ Brax by Halo UI/UX for HALO LAB",
     "url": "https://dribbble.com/shots/25261769-Website-for-a-Financial-App-Brax",
     "tags": [
+      "Fintech",
+      "Product",
+      "Dark",
+      "Typography",
+      "3D",
       "Archive"
     ]
   },
@@ -4262,6 +5535,10 @@
     "title": "Keikku",
     "url": "https://keikku.health",
     "tags": [
+      "Health",
+      "Product",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -4269,6 +5546,7 @@
     "title": "Sofi",
     "url": "https://www.sofihealth.com",
     "tags": [
+      "Health",
       "Archive"
     ]
   },
@@ -4276,6 +5554,10 @@
     "title": "Analogue aF-1",
     "url": "https://af1.analogueshop.com",
     "tags": [
+      "Product",
+      "Shop",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4283,6 +5565,9 @@
     "title": "Claim Your $PENGU",
     "url": "https://claim.pudgypenguins.com",
     "tags": [
+      "Web3",
+      "Light",
+      "Playful",
       "Archive"
     ]
   },
@@ -4297,6 +5582,9 @@
     "title": "Helium",
     "url": "https://www.helium.com",
     "tags": [
+      "Product",
+      "Light",
+      "Photography",
       "Archive"
     ]
   },
@@ -4304,6 +5592,8 @@
     "title": "apple.com",
     "url": "https://www.apple.com/shop/buy-iphone/iphone-16-pro",
     "tags": [
+      "Shop",
+      "Product",
       "Archive"
     ]
   },
@@ -4318,6 +5608,10 @@
     "title": "HF-11",
     "url": "https://www.oilstainlab.com",
     "tags": [
+      "Branding",
+      "Dark",
+      "Bold",
+      "Typography",
       "Archive"
     ]
   },
@@ -4332,6 +5626,10 @@
     "title": "Atoll Digital",
     "url": "https://atolldigital.com",
     "tags": [
+      "Agency",
+      "Light",
+      "Typography",
+      "3D",
       "Archive"
     ]
   },
@@ -4353,6 +5651,10 @@
     "title": "ESE Agency",
     "url": "https://www.eseagency.ch/en",
     "tags": [
+      "Agency",
+      "Dark",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4360,6 +5662,9 @@
     "title": "Studio Direction",
     "url": "https://studiodirection.com",
     "tags": [
+      "Agency",
+      "Dark",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4367,6 +5672,10 @@
     "title": "Jam3",
     "url": "https://www.jam3.com",
     "tags": [
+      "Agency",
+      "Dark",
+      "Minimal",
+      "Typography",
       "Archive"
     ]
   },
@@ -4395,6 +5704,10 @@
     "title": "-99® design studio",
     "url": "https://www.minus99.com",
     "tags": [
+      "Agency",
+      "Light",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4409,6 +5722,11 @@
     "title": "Motto®",
     "url": "https://wearemotto.com",
     "tags": [
+      "Agency",
+      "Branding",
+      "Light",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4423,6 +5741,10 @@
     "title": "monopo london",
     "url": "https://monopo.london",
     "tags": [
+      "Agency",
+      "Dark",
+      "Typography",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4437,6 +5759,10 @@
     "title": "Okta",
     "url": "https://www.okta.com",
     "tags": [
+      "Product",
+      "AI",
+      "Dark",
+      "Photography",
       "Archive"
     ]
   },
@@ -4444,6 +5770,10 @@
     "title": "Bussines",
     "url": "https://karta.io/business",
     "tags": [
+      "Web3",
+      "Fintech",
+      "Dark",
+      "Bold",
       "Archive"
     ]
   },
@@ -4458,6 +5788,10 @@
     "title": "Crypto Exchange Dashboard by Nixtio",
     "url": "https://dribbble.com/shots/25158757-Crypto-Exchange-Dashboard",
     "tags": [
+      "Web3",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4465,6 +5799,10 @@
     "title": "Crypto Exchange Dashboard by JK Mahbub",
     "url": "https://dribbble.com/shots/24441395-Crypto-Exchange-Dashboard",
     "tags": [
+      "Web3",
+      "Product",
+      "Dark",
+      "Colorful",
       "Archive"
     ]
   },
@@ -4472,6 +5810,10 @@
     "title": "Portfolio and crypto exchange dashboard — Untitled UI by Jordan Hughes",
     "url": "https://dribbble.com/shots/21694806-Portfolio-and-crypto-exchange-dashboard-Untitled-UI",
     "tags": [
+      "Web3",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   },
@@ -4479,6 +5821,10 @@
     "title": "Crypto Exchange Dashboard by JK Mahbub",
     "url": "https://dribbble.com/shots/24593523-Crypto-Exchange-Dashboard",
     "tags": [
+      "Web3",
+      "Product",
+      "Light",
+      "Minimal",
       "Archive"
     ]
   }

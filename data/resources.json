@@ -114,24 +114,6 @@
     "description": "AI features built into Figma — generate, rename layers, search visually."
   },
   {
-    "title": "Items.Design",
-    "url": "https://items.design",
-    "category": "AI tools",
-    "description": "AI-generated design assets."
-  },
-  {
-    "title": "Keyvisual",
-    "url": "https://keyvisual.ai",
-    "category": "AI tools",
-    "description": "Creative automation for agencies using Figma design systems."
-  },
-  {
-    "title": "Dora AI",
-    "url": "https://www.dora.run/ai",
-    "category": "AI tools",
-    "description": "Generate animated 3D websites from a prompt."
-  },
-  {
     "title": "Lafys",
     "url": "https://lafys.com",
     "category": "AI tools",
@@ -352,12 +334,6 @@
     "url": "https://www.framer.com/marketplace/vectors/cool-shapes",
     "category": "Framer",
     "description": "Free set of abstract shape vectors."
-  },
-  {
-    "title": "Add an AI chatbot",
-    "url": "https://www.framer.com/marketplace/tutorials/add-an-ai-chatbot",
-    "category": "Framer",
-    "description": "Tutorial: integrating AI chat into a Framer site."
   },
   {
     "title": "Jitter — Text templates",

@@ -130,3 +130,18 @@ export async function POST(request) {
     return Response.json({ ok: false, error: 'Saving to GitHub failed. Try again in a minute.' }, { status: 502 });
   }
 }
+
+// Temporary setup check: open /api/add in a browser to see what the server has, without revealing secrets.
+export async function GET() {
+  const pw = process.env.ADD_PASSWORD || '';
+  const token = process.env.GITHUB_TOKEN || '';
+  return Response.json({
+    build: (process.env.VERCEL_GIT_COMMIT_SHA || 'local').slice(0, 7),
+    environment: process.env.VERCEL_ENV || 'local',
+    passwordSet: Boolean(pw),
+    passwordLength: normalisePassword(pw).length,
+    passwordLooksLikeGithubToken: /^(github_pat_|ghp_)/.test(pw.trim()),
+    tokenSet: Boolean(token),
+    tokenLooksLikeGithubToken: /^(github_pat_|ghp_)/.test(token.trim()),
+  });
+}

@@ -1,4 +1,4 @@
-import { timingSafeEqual } from 'node:crypto';
+import { createHash, timingSafeEqual } from 'node:crypto';
 import taxonomy from '@/data/taxonomy.json';
 import { slugify, domainOf } from '@/lib/slug.mjs';
 import { isConfigured, updateJson } from '@/lib/github';
@@ -18,10 +18,21 @@ class UserError extends Error {
 
 const clean = (v, max) => (typeof v === 'string' ? v.trim().replace(/\s+/g, ' ').slice(0, max) : '');
 
+// Forgiving on purpose: stray spaces from copy-paste, phone auto-capitalisation and "smart" dashes/quotes
+// shouldn't lock a teammate out of a shared password.
+const normalisePassword = (v) =>
+  String(v || '')
+    .normalize('NFKC')
+    .replace(/[\u2010-\u2015\u2212]/g, '-')
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .trim()
+    .toLowerCase();
+const digest = (v) => createHash('sha256').update(normalisePassword(v)).digest();
+
 function passwordOk(given) {
-  const a = Buffer.from(String(given || ''));
-  const b = Buffer.from(process.env.ADD_PASSWORD || '');
-  return a.length === b.length && timingSafeEqual(a, b);
+  if (!normalisePassword(given)) return false;
+  return timingSafeEqual(digest(given), digest(process.env.ADD_PASSWORD));
 }
 
 function normaliseUrl(raw) {

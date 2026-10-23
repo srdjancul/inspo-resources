@@ -77,15 +77,7 @@ export async function POST(request) {
       throw new UserError('Adding isn’t switched on yet. GITHUB_TOKEN and ADD_PASSWORD have to be set in the Vercel project.', 503);
     }
     const body = await request.json().catch(() => ({}));
-    if (!passwordOk(body.password)) {
-      // Temporary while the team sets up: say how far off the guess is (length only, never content).
-      const typed = normalisePassword(body.password).length;
-      const expected = normalisePassword(process.env.ADD_PASSWORD).length;
-      const detail = typed === expected
-        ? ' The length is right, so one or more characters differ (watch for l/I/1, O/0, or a Cyrillic keyboard).'
-        : ` You typed ${typed} characters; the team password has ${expected}.`;
-      throw new UserError(`Wrong team password.${detail}`, 401, { field: 'password' });
-    }
+    if (!passwordOk(body.password)) throw new UserError('Wrong team password.', 401, { field: 'password' });
 
     const kind = body.kind;
     if (!FILES[kind]) throw new UserError('Choose what you’re adding.');
@@ -137,19 +129,4 @@ export async function POST(request) {
     console.error(e);
     return Response.json({ ok: false, error: 'Saving to GitHub failed. Try again in a minute.' }, { status: 502 });
   }
-}
-
-// Temporary setup check: open /api/add in a browser to see what the server has, without revealing secrets.
-export async function GET() {
-  const pw = process.env.ADD_PASSWORD || '';
-  const token = process.env.GITHUB_TOKEN || '';
-  return Response.json({
-    build: (process.env.VERCEL_GIT_COMMIT_SHA || 'local').slice(0, 7),
-    environment: process.env.VERCEL_ENV || 'local',
-    passwordSet: Boolean(pw),
-    passwordLength: normalisePassword(pw).length,
-    passwordLooksLikeGithubToken: /^(github_pat_|ghp_)/.test(pw.trim()),
-    tokenSet: Boolean(token),
-    tokenLooksLikeGithubToken: /^(github_pat_|ghp_)/.test(token.trim()),
-  });
 }

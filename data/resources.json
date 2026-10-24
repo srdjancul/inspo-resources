@@ -294,6 +294,12 @@
     "description": "Reference for Tailwind's default spacing scale."
   },
   {
+    "title": "FeralUI",
+    "url": "https://feralui.dev",
+    "category": "UI components",
+    "description": "Real components you can drop in, that happen to swing, grab, crumple, and catch the light."
+  },
+  {
     "title": "Framer Marketplace — Components",
     "url": "https://www.framer.com/marketplace/components",
     "category": "Framer",

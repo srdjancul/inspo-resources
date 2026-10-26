@@ -396,6 +396,12 @@
     "description": "Claude Code library for motion"
   },
   {
+    "title": "Skill Thinking Orbs",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "category": "Motion & 3D",
+    "description": "Claude Code library for illustrations and motion"
+  },
+  {
     "title": "Grid systems in UI",
     "url": "https://designlab.com/blog/grid-systems-history-ux-ui-layout",
     "category": "Learning",

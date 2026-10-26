@@ -390,6 +390,12 @@
     "description": "Abstract geometric background."
   },
   {
+    "title": "Skill for illustration and motion - Hairline",
+    "url": "https://github.com/lucasmarkes/hairline",
+    "category": "Motion & 3D",
+    "description": "Claude Code library for motion"
+  },
+  {
     "title": "Grid systems in UI",
     "url": "https://designlab.com/blog/grid-systems-history-ux-ui-layout",
     "category": "Learning",
